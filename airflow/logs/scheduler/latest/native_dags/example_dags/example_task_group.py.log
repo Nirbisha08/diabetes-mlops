@@ -1,0 +1,896 @@
+[2025-05-23T20:01:00.997-0400] {processor.py:186} INFO - Started process (PID=1414217) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:01:00.999-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:01:01.000-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:01.000-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:01:01.013-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:01:01.029-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:01.029-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:01:01.038-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:01.038-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:01:01.050-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-05-23T20:02:02.744-0400] {processor.py:186} INFO - Started process (PID=1414793) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:02.745-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:02:02.746-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:02.746-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:02.755-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:02.770-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:02.770-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:02:02.780-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:02.780-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:02:02.792-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-23T20:02:58.949-0400] {processor.py:186} INFO - Started process (PID=1415314) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:58.950-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:02:58.952-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:58.951-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:58.960-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:02:58.973-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:58.973-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:02:58.979-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:58.979-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:02:58.991-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2025-05-23T20:03:58.065-0400] {processor.py:186} INFO - Started process (PID=1415866) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:03:58.066-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:03:58.068-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:58.067-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:03:58.077-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:03:58.091-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:58.091-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:03:58.099-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:58.099-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:03:58.110-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-23T20:07:45.139-0400] {processor.py:186} INFO - Started process (PID=1416590) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:07:45.140-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:07:45.142-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:45.141-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:07:45.151-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:07:45.168-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:45.168-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:07:45.176-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:45.176-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:07:45.188-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-05-23T20:12:20.964-0400] {processor.py:186} INFO - Started process (PID=1417290) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:12:20.965-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:12:20.967-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:20.966-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:12:20.979-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:12:20.991-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:20.991-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:12:20.999-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:20.999-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:12:21.010-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-05-23T20:13:21.647-0400] {processor.py:186} INFO - Started process (PID=1417848) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:13:21.648-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:13:21.650-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:21.649-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:13:21.659-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:13:21.672-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:21.672-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:13:21.679-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:21.679-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:13:21.691-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-05-23T20:14:21.068-0400] {processor.py:186} INFO - Started process (PID=1418391) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:14:21.069-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:14:21.070-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:21.070-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:14:21.079-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:14:21.093-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:21.093-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:14:21.099-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:21.099-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:14:21.109-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2025-05-23T20:15:24.074-0400] {processor.py:186} INFO - Started process (PID=1418975) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:15:24.077-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:15:24.080-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:24.080-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:15:24.095-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:15:24.111-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:24.111-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:15:24.117-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:24.117-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:15:24.126-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
+[2025-05-23T20:16:21.081-0400] {processor.py:186} INFO - Started process (PID=1419503) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:16:21.082-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:16:21.083-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:21.083-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:16:21.092-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:16:21.105-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:21.105-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:16:21.115-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:21.115-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:16:21.128-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-05-23T20:17:17.760-0400] {processor.py:186} INFO - Started process (PID=1420035) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:17:17.761-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:17:17.762-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:17.762-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:17:17.770-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:17:17.783-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:17.783-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:17:17.790-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:17.789-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:17:17.801-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-05-23T20:18:15.513-0400] {processor.py:186} INFO - Started process (PID=1420560) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:18:15.515-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:18:15.516-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:15.516-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:18:15.525-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:18:15.540-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:15.539-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:18:15.547-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:15.547-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:18:15.557-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2025-05-23T20:19:25.787-0400] {processor.py:186} INFO - Started process (PID=1421220) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:19:25.789-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-23T20:19:25.790-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:25.789-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:19:25.798-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-23T20:19:25.811-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:25.810-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:19:25.818-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:25.818-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-23T20:19:25.832-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-24T00:46:21.935-0400] {processor.py:186} INFO - Started process (PID=1422251) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T00:46:21.936-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T00:46:21.938-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:21.937-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T00:46:21.951-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T00:46:21.971-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:21.971-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T00:46:21.981-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:21.981-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T00:46:21.995-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2025-05-24T01:18:58.853-0400] {processor.py:186} INFO - Started process (PID=1423028) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:18:58.854-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:18:58.855-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:58.855-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:18:58.859-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:18:58.868-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:58.868-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:18:58.875-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:58.875-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:18:58.887-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2025-05-24T01:20:08.509-0400] {processor.py:186} INFO - Started process (PID=1423668) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:20:08.510-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:20:08.511-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:08.511-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:20:08.517-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:20:08.527-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:08.527-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:20:08.537-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:08.536-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:20:08.553-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2025-05-24T01:21:16.256-0400] {processor.py:186} INFO - Started process (PID=1424284) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:21:16.258-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:21:16.259-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:16.259-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:21:16.270-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:21:16.285-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:16.285-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:21:16.300-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:16.300-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:21:16.313-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2025-05-24T01:22:16.489-0400] {processor.py:186} INFO - Started process (PID=1424841) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:22:16.489-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:22:16.490-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:16.490-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:22:16.496-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:22:16.505-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:16.505-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:22:16.512-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:16.512-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:22:16.525-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2025-05-24T01:23:13.580-0400] {processor.py:186} INFO - Started process (PID=1425375) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:23:13.582-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:23:13.583-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:13.583-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:23:13.592-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:23:13.603-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:13.603-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:23:13.610-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:13.610-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:23:13.623-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2025-05-24T01:24:13.244-0400] {processor.py:186} INFO - Started process (PID=1425927) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:24:13.245-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:24:13.247-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:13.246-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:24:13.254-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:24:13.264-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:13.263-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:24:13.270-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:13.270-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:24:13.282-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2025-05-24T01:25:12.951-0400] {processor.py:186} INFO - Started process (PID=1426473) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:25:12.952-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:25:12.953-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:12.953-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:25:12.962-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:25:12.975-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:12.974-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:25:12.994-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:12.994-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:25:13.009-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-05-24T01:26:13.590-0400] {processor.py:186} INFO - Started process (PID=1427040) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:26:13.590-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:26:13.591-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:13.591-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:26:13.597-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:26:13.610-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:13.610-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:26:13.618-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:13.618-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:26:13.629-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2025-05-24T01:27:14.358-0400] {processor.py:186} INFO - Started process (PID=1427590) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:27:14.360-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:27:14.362-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:14.362-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:27:14.381-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:27:14.400-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:14.400-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:27:14.417-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:14.417-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:27:14.430-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2025-05-24T01:28:18.597-0400] {processor.py:186} INFO - Started process (PID=1428192) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:28:18.598-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:28:18.599-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:18.599-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:28:18.612-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:28:18.627-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:18.626-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:28:18.637-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:18.637-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:28:18.651-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2025-05-24T01:29:16.200-0400] {processor.py:186} INFO - Started process (PID=1428720) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:29:16.203-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:29:16.206-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:16.205-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:29:16.224-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:29:16.244-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:16.244-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:29:16.254-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:16.254-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:29:16.271-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.086 seconds
+[2025-05-24T01:30:14.141-0400] {processor.py:186} INFO - Started process (PID=1429254) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:30:14.142-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:30:14.143-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:14.143-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:30:14.150-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:30:14.161-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:14.161-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:30:14.169-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:14.169-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:30:14.179-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2025-05-24T01:31:11.057-0400] {processor.py:186} INFO - Started process (PID=1429779) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:31:11.059-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:31:11.061-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:11.060-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:31:11.077-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:31:11.094-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:11.094-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:31:11.108-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:11.108-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:31:11.122-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2025-05-24T01:32:11.373-0400] {processor.py:186} INFO - Started process (PID=1430331) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:32:11.375-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:32:11.376-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:11.375-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:32:11.382-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:32:11.394-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:11.394-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:32:11.402-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:11.401-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:32:11.417-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T01:33:13.286-0400] {processor.py:186} INFO - Started process (PID=1430900) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:33:13.287-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:33:13.287-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:13.287-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:33:13.296-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:33:13.311-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:13.311-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:33:13.327-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:13.327-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:33:13.342-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-05-24T01:34:13.914-0400] {processor.py:186} INFO - Started process (PID=1431461) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:34:13.916-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:34:13.917-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:13.917-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:34:13.926-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:34:13.938-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:13.938-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:34:13.946-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:13.946-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:34:13.958-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2025-05-24T01:35:16.606-0400] {processor.py:186} INFO - Started process (PID=1432037) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:35:16.608-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:35:16.610-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:16.609-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:35:16.631-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:35:16.665-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:16.665-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:35:16.678-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:16.678-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:35:16.699-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.116 seconds
+[2025-05-24T01:36:14.874-0400] {processor.py:186} INFO - Started process (PID=1432577) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:36:14.876-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:36:14.877-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:14.876-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:36:14.884-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:36:14.894-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:14.894-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:36:14.901-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:14.901-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:36:14.910-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-05-24T01:37:17.760-0400] {processor.py:186} INFO - Started process (PID=1433154) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:37:17.761-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:37:17.762-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:17.761-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:37:17.769-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:37:17.782-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:17.782-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:37:17.792-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:17.792-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:37:17.804-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T01:38:18.407-0400] {processor.py:186} INFO - Started process (PID=1433709) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:38:18.408-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:38:18.410-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:18.409-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:38:18.418-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:38:18.436-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:18.436-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:38:18.445-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:18.445-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:38:18.457-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-05-24T01:39:19.414-0400] {processor.py:186} INFO - Started process (PID=1434315) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:39:19.415-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:39:19.415-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:19.415-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:39:19.420-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:39:19.430-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:19.430-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:39:19.438-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:19.438-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:39:19.449-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2025-05-24T01:40:19.874-0400] {processor.py:186} INFO - Started process (PID=1434867) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:40:19.877-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:40:19.878-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:19.877-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:40:19.885-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:40:19.897-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:19.897-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:40:19.905-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:19.904-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:40:19.916-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2025-05-24T01:41:25.741-0400] {processor.py:186} INFO - Started process (PID=1435475) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:41:25.742-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:41:25.743-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:25.743-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:41:25.756-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:41:25.795-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:25.795-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:41:25.823-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:25.823-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:41:25.840-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.110 seconds
+[2025-05-24T01:42:34.241-0400] {processor.py:186} INFO - Started process (PID=1436098) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:42:34.242-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:42:34.243-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:34.243-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:42:34.251-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:42:34.263-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:34.263-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:42:34.356-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:34.356-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:42:34.366-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2025-05-24T01:43:44.783-0400] {processor.py:186} INFO - Started process (PID=1436741) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:43:44.786-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:43:44.789-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:44.787-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:43:44.804-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:43:45.138-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:45.137-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:43:45.146-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:45.145-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:43:45.160-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.394 seconds
+[2025-05-24T01:44:59.155-0400] {processor.py:186} INFO - Started process (PID=1437424) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:44:59.156-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:44:59.157-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:59.157-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:44:59.164-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:44:59.272-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:59.272-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:44:59.277-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:59.277-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:44:59.288-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.142 seconds
+[2025-05-24T01:46:16.548-0400] {processor.py:186} INFO - Started process (PID=1438120) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:46:16.556-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:46:16.560-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:16.559-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:46:16.908-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:46:16.919-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:16.919-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:46:16.927-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:16.927-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:46:16.940-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.408 seconds
+[2025-05-24T01:47:51.500-0400] {processor.py:186} INFO - Started process (PID=1438982) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:47:51.502-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:47:51.504-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:51.503-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:47:51.517-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:47:51.547-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:51.547-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:47:51.558-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:51.558-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:47:51.576-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds
+[2025-05-24T01:49:03.726-0400] {processor.py:186} INFO - Started process (PID=1439648) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:49:03.729-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:49:03.731-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:03.731-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:49:03.748-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:49:03.791-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:03.791-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:49:03.814-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:03.814-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:49:03.839-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.139 seconds
+[2025-05-24T01:50:13.634-0400] {processor.py:186} INFO - Started process (PID=1440288) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:50:13.637-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:50:13.640-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:13.639-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:50:13.659-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:50:13.683-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:13.682-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:50:13.701-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:13.701-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:50:13.732-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.118 seconds
+[2025-05-24T01:51:21.857-0400] {processor.py:186} INFO - Started process (PID=1440914) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:51:21.860-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:51:21.863-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:21.862-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:51:21.878-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:51:21.906-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:21.905-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:51:21.921-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:21.921-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:51:21.943-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.114 seconds
+[2025-05-24T01:52:26.085-0400] {processor.py:186} INFO - Started process (PID=1441510) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:52:26.086-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:52:26.088-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:26.087-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:52:26.111-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:52:26.130-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:26.129-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:52:26.144-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:26.143-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:52:26.162-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.094 seconds
+[2025-05-24T01:53:29.681-0400] {processor.py:186} INFO - Started process (PID=1442092) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:53:29.682-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:53:29.683-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:29.683-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:53:29.693-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:53:29.710-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:29.710-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:53:29.728-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:29.728-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:53:29.748-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2025-05-24T01:55:07.944-0400] {processor.py:186} INFO - Started process (PID=1442980) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:55:07.946-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:55:07.947-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:07.947-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:55:07.965-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:55:07.985-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:07.985-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:55:08.000-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:08.000-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:55:08.034-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.101 seconds
+[2025-05-24T01:56:18.730-0400] {processor.py:186} INFO - Started process (PID=1443634) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:56:18.732-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:56:18.733-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:18.733-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:56:18.753-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:56:18.772-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:18.772-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:56:18.784-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:18.784-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:56:18.801-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.087 seconds
+[2025-05-24T01:57:40.489-0400] {processor.py:186} INFO - Started process (PID=1444388) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:57:40.491-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:57:40.492-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:40.492-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:57:40.500-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:57:40.521-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:40.521-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:57:40.532-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:40.532-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:57:40.549-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-05-24T01:58:51.146-0400] {processor.py:186} INFO - Started process (PID=1445031) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:58:51.148-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:58:51.149-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:51.149-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:58:51.161-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:58:51.183-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:51.182-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:58:51.200-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:51.199-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:58:51.221-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2025-05-24T01:59:57.521-0400] {processor.py:186} INFO - Started process (PID=1445637) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:59:57.523-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T01:59:57.525-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:57.525-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:59:57.538-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T01:59:57.559-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:57.559-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:59:57.574-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:57.574-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T01:59:57.593-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.096 seconds
+[2025-05-24T02:00:59.802-0400] {processor.py:186} INFO - Started process (PID=1446209) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:00:59.803-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:00:59.804-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:59.804-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:00:59.815-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:00:59.830-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:59.829-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:00:59.841-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:59.840-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:00:59.857-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.083 seconds
+[2025-05-24T02:02:02.737-0400] {processor.py:186} INFO - Started process (PID=1446791) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:02:02.739-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:02:02.740-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:02.740-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:02:02.754-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:02:02.773-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:02.772-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:02:02.789-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:02.788-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:02:02.817-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.096 seconds
+[2025-05-24T02:03:01.720-0400] {processor.py:186} INFO - Started process (PID=1447337) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:03:01.722-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:03:01.724-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:01.723-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:03:01.735-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:03:01.755-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:01.755-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:03:01.767-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:01.766-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:03:01.783-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.094 seconds
+[2025-05-24T02:04:00.966-0400] {processor.py:186} INFO - Started process (PID=1447880) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:04:00.968-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:04:00.971-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:00.971-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:04:00.992-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:04:01.017-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:01.016-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:04:01.039-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:01.039-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:04:01.060-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.113 seconds
+[2025-05-24T02:05:05.582-0400] {processor.py:186} INFO - Started process (PID=1448467) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:05:05.584-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:05:05.586-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:05.585-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:05:05.608-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:05:05.634-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:05.634-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:05:05.651-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:05.651-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:05:05.670-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.110 seconds
+[2025-05-24T02:06:16.721-0400] {processor.py:186} INFO - Started process (PID=1449179) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:06:16.722-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:06:16.723-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:16.722-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:06:16.730-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:06:16.743-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:16.743-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:06:16.750-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:16.750-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:06:16.762-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2025-05-24T02:07:16.581-0400] {processor.py:186} INFO - Started process (PID=1449768) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:07:16.582-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:07:16.582-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:16.582-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:07:16.590-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:07:16.599-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:16.599-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:07:16.609-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:16.609-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:07:16.621-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2025-05-24T02:08:16.456-0400] {processor.py:186} INFO - Started process (PID=1450322) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:08:16.458-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:08:16.460-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:16.460-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:08:16.471-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:08:16.490-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:16.490-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:08:16.502-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:16.502-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:08:16.514-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.076 seconds
+[2025-05-24T02:09:08.615-0400] {processor.py:186} INFO - Started process (PID=1450851) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:09:08.616-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T02:09:08.617-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:08.617-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:09:08.624-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T02:09:08.635-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:08.635-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:09:08.641-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:08.641-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T02:09:08.652-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2025-05-24T03:03:16.034-0400] {processor.py:186} INFO - Started process (PID=1451660) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:03:16.035-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:03:16.037-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:16.036-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:03:16.045-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:03:16.058-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:16.058-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:03:16.065-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:16.065-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:03:16.075-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T03:04:18.579-0400] {processor.py:186} INFO - Started process (PID=1452233) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:04:18.580-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:04:18.581-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:18.581-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:04:18.596-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:04:18.608-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:18.608-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:04:18.616-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:18.616-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:04:18.633-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-05-24T03:05:18.648-0400] {processor.py:186} INFO - Started process (PID=1452794) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:05:18.649-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:05:18.651-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:18.650-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:05:18.660-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:05:18.675-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:18.675-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:05:18.682-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:18.682-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:05:18.695-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-05-24T03:06:19.918-0400] {processor.py:186} INFO - Started process (PID=1453370) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:06:19.919-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:06:19.920-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:19.920-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:06:19.925-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:06:19.934-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:19.934-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:06:19.940-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:19.940-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:06:19.950-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2025-05-24T03:07:19.604-0400] {processor.py:186} INFO - Started process (PID=1453921) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:07:19.605-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:07:19.606-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:19.606-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:07:19.612-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:07:19.622-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:19.622-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:07:19.629-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:19.629-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:07:19.644-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:08:17.034-0400] {processor.py:186} INFO - Started process (PID=1454468) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:08:17.036-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:08:17.037-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:17.037-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:08:17.050-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:08:17.074-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:17.073-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:08:17.084-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:17.084-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:08:17.099-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2025-05-24T03:09:21.905-0400] {processor.py:186} INFO - Started process (PID=1455110) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:09:21.906-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:09:21.907-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:21.907-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:09:21.916-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:09:21.930-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:21.930-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:09:21.938-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:21.938-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:09:21.949-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-05-24T03:10:23.459-0400] {processor.py:186} INFO - Started process (PID=1455816) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:10:23.461-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:10:23.462-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:23.462-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:10:23.474-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:10:23.489-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:23.489-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:10:23.496-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:23.496-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:10:23.507-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-05-24T03:11:25.304-0400] {processor.py:186} INFO - Started process (PID=1456387) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:11:25.307-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:11:25.308-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:25.308-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:11:25.319-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:11:25.334-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:25.334-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:11:25.355-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:25.355-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:11:25.371-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2025-05-24T03:12:25.511-0400] {processor.py:186} INFO - Started process (PID=1456942) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:12:25.513-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:12:25.514-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:25.514-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:12:25.523-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:12:25.538-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:25.537-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:12:25.545-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:25.545-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:12:25.556-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-24T03:13:25.155-0400] {processor.py:186} INFO - Started process (PID=1457489) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:13:25.156-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:13:25.157-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:25.157-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:13:25.165-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:13:25.178-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:25.178-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:13:25.185-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:25.185-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:13:25.196-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2025-05-24T03:14:19.652-0400] {processor.py:186} INFO - Started process (PID=1458000) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:14:19.654-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:14:19.655-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:19.655-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:14:19.667-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:14:19.678-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:19.677-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:14:19.685-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:19.684-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:14:19.695-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:15:19.593-0400] {processor.py:186} INFO - Started process (PID=1458551) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:15:19.594-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:15:19.595-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:19.595-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:15:19.602-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:15:19.616-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:19.616-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:15:19.626-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:19.626-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:15:19.642-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-05-24T03:16:24.502-0400] {processor.py:186} INFO - Started process (PID=1459149) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:16:24.504-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:16:24.505-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:24.505-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:16:24.517-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:16:24.538-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:24.538-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:16:24.549-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:24.549-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:16:24.560-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-05-24T03:17:23.717-0400] {processor.py:186} INFO - Started process (PID=1459695) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:17:23.719-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:17:23.721-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:23.720-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:17:23.735-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:17:23.761-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:23.760-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:17:23.772-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:23.772-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:17:23.787-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
+[2025-05-24T03:18:23.281-0400] {processor.py:186} INFO - Started process (PID=1460246) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:18:23.282-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:18:23.284-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:23.283-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:18:23.294-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:18:23.305-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:23.305-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:18:23.313-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:23.313-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:18:23.325-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-05-24T03:19:24.337-0400] {processor.py:186} INFO - Started process (PID=1460809) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:19:24.339-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:19:24.340-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:24.340-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:19:24.349-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:19:24.361-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:24.360-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:19:24.370-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:24.370-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:19:24.381-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:20:23.348-0400] {processor.py:186} INFO - Started process (PID=1461345) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:20:23.350-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:20:23.351-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:23.350-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:20:23.356-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:20:23.368-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:23.368-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:20:23.378-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:23.378-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:20:23.392-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2025-05-24T03:21:23.991-0400] {processor.py:186} INFO - Started process (PID=1461907) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:21:23.995-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:21:23.997-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:23.996-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:21:24.010-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:21:24.030-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:24.029-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:21:24.040-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:24.040-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:21:24.053-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2025-05-24T03:22:22.117-0400] {processor.py:186} INFO - Started process (PID=1462444) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:22:22.119-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:22:22.121-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:22.120-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:22:22.129-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:22:22.143-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:22.143-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:22:22.150-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:22.150-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:22:22.160-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:23:19.480-0400] {processor.py:186} INFO - Started process (PID=1462973) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:23:19.482-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:23:19.483-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:19.483-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:23:19.493-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:23:19.507-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:19.507-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:23:19.514-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:19.514-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:23:19.525-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-05-24T03:24:25.393-0400] {processor.py:186} INFO - Started process (PID=1463573) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:24:25.395-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:24:25.396-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:25.395-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:24:25.407-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:24:25.423-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:25.423-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:24:25.432-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:25.432-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:24:25.445-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-05-24T03:25:25.529-0400] {processor.py:186} INFO - Started process (PID=1464133) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:25:25.531-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:25:25.533-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:25.532-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:25:25.542-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:25:25.556-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:25.556-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:25:25.563-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:25.563-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:25:25.573-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-24T03:26:24.676-0400] {processor.py:186} INFO - Started process (PID=1464678) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:26:24.678-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:26:24.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:24.679-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:26:24.688-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:26:24.704-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:24.704-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:26:24.715-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:24.715-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:26:24.729-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-05-24T03:27:26.778-0400] {processor.py:186} INFO - Started process (PID=1465239) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:27:26.780-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:27:26.782-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:26.782-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:27:26.793-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:27:26.818-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:26.817-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:27:26.826-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:26.826-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:27:26.836-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-05-24T03:28:25.678-0400] {processor.py:186} INFO - Started process (PID=1465781) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:28:25.679-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:28:25.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:25.679-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:28:25.686-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:28:25.698-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:25.698-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:28:25.707-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:25.707-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:28:25.719-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:29:27.408-0400] {processor.py:186} INFO - Started process (PID=1466345) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:29:27.410-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:29:27.411-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:27.410-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:29:27.418-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:29:27.430-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:27.430-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:29:27.438-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:27.438-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:29:27.448-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2025-05-24T03:30:26.051-0400] {processor.py:186} INFO - Started process (PID=1466890) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:30:26.052-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:30:26.054-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:26.053-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:30:26.064-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:30:26.080-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:26.080-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:30:26.090-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:26.089-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:30:26.099-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-05-24T03:31:40.345-0400] {processor.py:186} INFO - Started process (PID=1467576) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:31:40.347-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:31:40.349-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:40.349-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:31:40.363-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:31:40.377-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:40.377-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:31:40.388-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:40.388-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:31:40.404-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-05-24T03:32:37.076-0400] {processor.py:186} INFO - Started process (PID=1468102) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:32:37.077-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:32:37.078-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:37.078-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:32:37.096-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:32:37.111-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:37.111-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:32:37.117-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:37.117-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:32:37.131-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-05-24T03:33:37.734-0400] {processor.py:186} INFO - Started process (PID=1468657) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:33:37.735-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:33:37.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:37.736-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:33:37.743-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:33:37.755-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:37.755-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:33:37.766-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:37.766-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:33:37.779-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-24T03:34:35.656-0400] {processor.py:186} INFO - Started process (PID=1469191) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:34:35.657-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:34:35.658-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:35.658-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:34:35.669-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:34:35.684-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:35.683-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:34:35.692-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:35.692-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:34:35.705-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-05-24T03:35:35.309-0400] {processor.py:186} INFO - Started process (PID=1469742) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:35:35.311-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:35:35.312-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:35.312-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:35:35.325-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:35:35.339-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:35.339-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:35:35.348-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:35.348-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:35:35.360-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-05-24T03:36:35.501-0400] {processor.py:186} INFO - Started process (PID=1470293) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:36:35.502-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:36:35.503-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:35.503-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:36:35.513-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:36:35.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:35.528-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:36:35.537-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:35.537-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:36:35.547-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2025-05-24T03:37:34.717-0400] {processor.py:186} INFO - Started process (PID=1470837) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:37:34.719-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:37:34.723-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:34.722-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:37:34.730-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:37:34.739-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:34.739-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:37:34.746-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:34.746-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:37:34.756-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2025-05-24T03:38:34.121-0400] {processor.py:186} INFO - Started process (PID=1471388) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:38:34.122-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:38:34.123-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:34.123-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:38:34.131-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:38:34.144-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:34.144-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:38:34.154-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:34.154-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:38:34.165-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2025-05-24T03:39:32.943-0400] {processor.py:186} INFO - Started process (PID=1471967) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:39:32.944-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:39:32.946-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:32.945-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:39:32.955-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:39:32.971-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:32.970-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:39:32.978-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:32.978-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:39:32.989-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-05-24T03:40:41.581-0400] {processor.py:186} INFO - Started process (PID=1472606) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:40:41.583-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:40:41.585-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:41.584-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:40:41.596-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:40:41.613-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:41.613-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:40:41.623-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:41.623-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:40:41.636-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-05-24T03:41:41.409-0400] {processor.py:186} INFO - Started process (PID=1473149) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:41:41.410-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:41:41.411-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:41.411-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:41:41.418-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:41:41.430-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:41.430-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:41:41.437-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:41.437-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:41:41.451-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2025-05-24T03:42:40.106-0400] {processor.py:186} INFO - Started process (PID=1473693) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:42:40.108-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:42:40.109-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:40.109-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:42:40.117-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:42:40.134-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:40.134-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:42:40.145-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:40.145-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:42:40.158-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-05-24T03:43:40.065-0400] {processor.py:186} INFO - Started process (PID=1474244) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:43:40.067-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:43:40.068-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:40.068-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:43:40.076-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:43:40.093-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:40.092-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:43:40.102-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:40.102-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:43:40.115-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-05-24T03:44:35.873-0400] {processor.py:186} INFO - Started process (PID=1474753) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:44:35.874-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:44:35.876-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:35.875-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:44:35.889-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:44:35.904-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:35.903-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:44:35.912-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:35.912-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:44:35.926-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-05-24T03:45:31.637-0400] {processor.py:186} INFO - Started process (PID=1475282) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:45:31.639-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:45:31.640-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:31.639-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:45:31.649-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:45:31.664-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:31.664-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:45:31.673-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:31.672-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:45:31.683-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-05-24T03:46:32.532-0400] {processor.py:186} INFO - Started process (PID=1475844) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:46:32.533-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:46:32.534-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:32.534-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:46:32.543-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:46:32.556-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:32.556-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:46:32.563-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:32.563-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:46:32.573-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T03:47:39.528-0400] {processor.py:186} INFO - Started process (PID=1476448) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:47:39.529-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:47:39.530-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:39.530-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:47:39.539-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:47:39.552-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:39.552-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:47:39.559-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:39.559-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:47:39.569-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T03:48:39.087-0400] {processor.py:186} INFO - Started process (PID=1477005) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:48:39.088-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:48:39.089-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:39.089-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:48:39.096-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:48:39.107-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:39.107-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:48:39.115-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:39.114-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:48:39.125-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2025-05-24T03:59:22.295-0400] {processor.py:186} INFO - Started process (PID=1477570) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:59:22.296-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T03:59:22.297-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:22.297-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:59:22.306-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T03:59:22.320-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:22.319-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:59:22.327-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:22.327-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T03:59:22.339-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2025-05-24T04:00:30.437-0400] {processor.py:186} INFO - Started process (PID=1478205) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:00:30.445-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:00:30.447-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:30.447-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:00:30.459-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:00:30.481-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:30.481-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:00:30.493-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:30.493-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:00:30.510-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2025-05-24T04:01:29.638-0400] {processor.py:186} INFO - Started process (PID=1478747) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:01:29.640-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:01:29.641-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:29.640-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:01:29.656-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:01:29.668-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:29.667-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:01:29.677-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:29.677-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:01:29.688-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2025-05-24T04:02:24.484-0400] {processor.py:186} INFO - Started process (PID=1479256) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:02:24.487-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:02:24.488-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:24.488-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:02:24.501-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:02:24.525-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:24.525-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:02:24.533-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:24.533-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:02:24.543-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-05-24T04:03:24.762-0400] {processor.py:186} INFO - Started process (PID=1479808) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:03:24.764-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:03:24.765-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:24.765-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:03:24.771-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:03:24.782-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:24.781-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:03:24.791-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:24.791-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:03:24.802-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2025-05-24T04:04:27.813-0400] {processor.py:186} INFO - Started process (PID=1480387) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:04:27.814-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:04:27.815-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:27.815-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:04:27.824-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:04:27.835-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:27.835-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:04:27.843-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:27.843-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:04:27.855-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-05-24T04:05:25.851-0400] {processor.py:186} INFO - Started process (PID=1480929) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:05:25.852-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:05:25.854-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:25.853-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:05:25.863-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:05:25.878-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:25.878-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:05:25.886-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:25.886-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:05:25.896-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-05-24T04:06:22.103-0400] {processor.py:186} INFO - Started process (PID=1481448) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:06:22.105-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:06:22.106-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:22.105-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:06:22.116-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:06:22.140-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:22.140-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:06:22.151-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:22.151-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:06:22.162-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.076 seconds
+[2025-05-24T04:07:24.549-0400] {processor.py:186} INFO - Started process (PID=1482018) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:07:24.550-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:07:24.554-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:24.552-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:07:24.567-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:07:24.589-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:24.589-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:07:24.612-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:24.612-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:07:24.634-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.099 seconds
+[2025-05-24T04:08:39.590-0400] {processor.py:186} INFO - Started process (PID=1482894) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:08:39.592-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:08:39.593-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:39.593-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:08:39.612-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:08:39.626-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:39.626-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:08:39.633-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:39.633-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:08:39.643-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-05-24T04:09:57.943-0400] {processor.py:186} INFO - Started process (PID=1483796) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:09:57.944-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:09:57.945-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:57.945-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:09:57.950-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:09:57.959-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:57.959-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:09:57.965-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:57.965-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:09:57.975-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds
+[2025-05-24T04:11:02.951-0400] {processor.py:186} INFO - Started process (PID=1484432) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:11:02.952-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:11:02.953-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:02.953-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:11:02.962-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:11:02.974-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:02.974-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:11:02.981-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:02.981-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:11:02.993-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-05-24T04:12:10.275-0400] {processor.py:186} INFO - Started process (PID=1485084) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:12:10.276-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:12:10.277-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:10.277-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:12:10.287-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:12:10.301-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:10.301-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:12:10.308-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:10.308-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:12:10.319-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-05-24T04:13:15.578-0400] {processor.py:186} INFO - Started process (PID=1485717) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:13:15.579-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:13:15.581-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:15.580-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:13:15.593-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:13:15.609-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:15.609-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:13:15.618-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:15.618-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:13:15.630-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.076 seconds
+[2025-05-24T04:14:23.690-0400] {processor.py:186} INFO - Started process (PID=1486402) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:14:23.691-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:14:23.692-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:23.692-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:14:23.716-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:14:23.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:23.736-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:14:23.747-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:23.747-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:14:23.762-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.083 seconds
+[2025-05-24T04:15:45.818-0400] {processor.py:186} INFO - Started process (PID=1487174) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:15:45.821-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:15:45.822-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:45.822-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:15:45.829-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:15:45.840-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:45.840-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:15:45.851-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:45.851-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:15:45.872-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-05-24T04:18:37.611-0400] {processor.py:186} INFO - Started process (PID=1488566) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:18:37.616-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:18:37.616-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:37.616-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:18:37.625-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:18:37.635-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:37.635-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:18:37.642-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:37.642-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:18:37.654-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2025-05-24T04:20:17.734-0400] {processor.py:186} INFO - Started process (PID=1489540) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:20:17.735-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:20:17.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:17.736-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:20:17.750-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:20:17.768-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:17.768-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:20:17.787-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:17.787-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:20:17.804-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds
+[2025-05-24T04:21:40.509-0400] {processor.py:186} INFO - Started process (PID=1490353) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:21:40.510-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:21:40.511-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:40.510-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:21:40.518-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:21:40.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:40.528-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:21:40.536-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:40.536-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:21:40.546-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2025-05-24T04:23:06.677-0400] {processor.py:186} INFO - Started process (PID=1491140) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:23:06.679-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:23:06.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:06.679-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:23:06.687-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:23:06.699-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:06.698-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:23:06.707-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:06.707-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:23:06.717-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2025-05-24T04:24:13.410-0400] {processor.py:186} INFO - Started process (PID=1491752) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:24:13.416-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-24T04:24:13.418-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:13.418-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:24:13.435-0400] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-24T04:24:13.468-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:13.467-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:24:13.506-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:13.506-0400] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-05-24T04:24:13.543-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.156 seconds

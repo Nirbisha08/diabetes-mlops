@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nirbisha/airflow/dags/mlruns/0/f40ed110c9d746b8bbd6ceb8f057f4d0/artifacts
+end_time: 1748080790451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f40ed110c9d746b8bbd6ceb8f057f4d0
+run_name: beautiful-kite-909
+run_uuid: f40ed110c9d746b8bbd6ceb8f057f4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748080790428
+status: 4
+tags: []
+user_id: nirbisha

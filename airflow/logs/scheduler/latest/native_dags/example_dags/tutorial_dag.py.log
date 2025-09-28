@@ -1,0 +1,903 @@
+[2025-05-23T20:01:34.818-0400] {processor.py:186} INFO - Started process (PID=1414530) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:01:34.820-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:01:34.821-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:34.821-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:01:34.832-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:01:34.844-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:34.844-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:01:34.852-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:34.852-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:01:34.865-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2025-05-23T20:02:30.327-0400] {processor.py:186} INFO - Started process (PID=1415040) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:02:30.330-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:02:30.331-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:30.331-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:02:30.340-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:02:30.353-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:30.353-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:02:30.362-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:30.362-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:02:30.373-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-05-23T20:03:28.326-0400] {processor.py:186} INFO - Started process (PID=1415586) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:03:28.327-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:03:28.328-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:28.328-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:03:28.337-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:03:28.350-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:28.350-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:03:28.361-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:28.360-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:03:28.374-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-05-23T20:04:24.311-0400] {processor.py:186} INFO - Started process (PID=1416104) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:04:24.313-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:04:24.314-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:24.313-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:04:24.322-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:04:24.334-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:24.334-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:04:24.342-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:24.342-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:04:24.353-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2025-05-23T20:07:30.976-0400] {processor.py:186} INFO - Started process (PID=1416462) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:07:30.978-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:07:30.980-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:30.979-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:07:30.990-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:07:31.007-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:31.007-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:07:31.016-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:31.016-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:07:31.027-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-05-23T20:08:33.069-0400] {processor.py:186} INFO - Started process (PID=1417038) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:08:33.071-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:08:33.073-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:08:33.072-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:08:33.086-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:08:33.100-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:08:33.100-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:08:33.114-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:08:33.114-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:08:33.126-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2025-05-23T20:13:05.735-0400] {processor.py:186} INFO - Started process (PID=1417700) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:13:05.736-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:13:05.738-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:05.738-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:13:05.751-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:13:05.767-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:05.767-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:13:05.776-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:05.776-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:13:05.789-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-05-23T20:14:04.342-0400] {processor.py:186} INFO - Started process (PID=1418244) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:14:04.345-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:14:04.347-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:04.346-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:14:04.356-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:14:04.376-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:04.375-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:14:04.385-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:04.385-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:14:04.395-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2025-05-23T20:15:06.198-0400] {processor.py:186} INFO - Started process (PID=1418809) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:15:06.200-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:15:06.201-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:06.200-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:15:06.208-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:15:06.220-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:06.220-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:15:06.230-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:06.230-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:15:06.241-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2025-05-23T20:16:05.691-0400] {processor.py:186} INFO - Started process (PID=1419365) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:16:05.692-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:16:05.694-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:05.693-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:16:05.702-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:16:05.715-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:05.715-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:16:05.725-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:05.725-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:16:05.736-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2025-05-23T20:17:02.735-0400] {processor.py:186} INFO - Started process (PID=1419899) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:17:02.737-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:17:02.738-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:02.738-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:17:02.743-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:17:02.754-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:02.754-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:17:02.761-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:02.760-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:17:02.772-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-05-23T20:18:01.333-0400] {processor.py:186} INFO - Started process (PID=1420434) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:18:01.335-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:18:01.337-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:01.336-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:18:01.345-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:18:01.359-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:01.359-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:18:01.366-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:01.366-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:18:01.376-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2025-05-23T20:19:09.195-0400] {processor.py:186} INFO - Started process (PID=1421064) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:19:09.197-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-23T20:19:09.199-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:09.198-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:19:09.213-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-23T20:19:09.224-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:09.224-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:19:09.233-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:09.233-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-23T20:19:09.243-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-05-24T00:13:26.538-0400] {processor.py:186} INFO - Started process (PID=1421723) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T00:13:26.539-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T00:13:26.540-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:26.540-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T00:13:26.546-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T00:13:26.555-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:26.555-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T00:13:26.565-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:26.565-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T00:13:26.577-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-05-24T01:18:43.638-0400] {processor.py:186} INFO - Started process (PID=1422893) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:18:43.639-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:18:43.640-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:43.640-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:18:43.646-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:18:43.657-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:43.657-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:18:43.667-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:43.667-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:18:43.685-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-05-24T01:19:51.994-0400] {processor.py:186} INFO - Started process (PID=1423515) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:19:51.995-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:19:51.997-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:51.996-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:19:52.006-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:19:52.017-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:52.017-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:19:52.031-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:52.031-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:19:52.052-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2025-05-24T01:21:01.211-0400] {processor.py:186} INFO - Started process (PID=1424147) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:01.214-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:21:01.216-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:01.215-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:01.239-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:01.262-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:01.262-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:21:01.280-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:01.280-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:21:01.303-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.117 seconds
+[2025-05-24T01:21:59.656-0400] {processor.py:186} INFO - Started process (PID=1424691) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:59.657-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:21:59.658-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:59.658-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:59.667-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:21:59.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:59.679-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:21:59.687-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:59.687-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:21:59.698-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T01:22:57.558-0400] {processor.py:186} INFO - Started process (PID=1425230) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:22:57.559-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:22:57.560-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:57.560-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:22:57.565-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:22:57.579-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:57.579-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:22:57.586-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:57.586-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:22:57.597-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2025-05-24T01:23:57.333-0400] {processor.py:186} INFO - Started process (PID=1425782) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:23:57.335-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:23:57.336-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:57.335-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:23:57.339-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:23:57.347-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:57.347-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:23:57.353-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:57.353-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:23:57.364-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.038 seconds
+[2025-05-24T01:24:57.304-0400] {processor.py:186} INFO - Started process (PID=1426332) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:24:57.307-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:24:57.309-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:57.308-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:24:57.323-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:24:57.344-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:57.344-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:24:57.378-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:57.377-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:24:57.412-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.126 seconds
+[2025-05-24T01:25:59.447-0400] {processor.py:186} INFO - Started process (PID=1426911) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:25:59.450-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:25:59.451-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:59.450-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:25:59.461-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:25:59.474-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:59.474-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:25:59.485-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:59.485-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:25:59.496-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-05-24T01:26:59.634-0400] {processor.py:186} INFO - Started process (PID=1427461) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:26:59.637-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:26:59.641-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:59.638-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:26:59.674-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:26:59.740-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:59.740-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:26:59.774-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:59.773-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:26:59.800-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.209 seconds
+[2025-05-24T01:28:03.854-0400] {processor.py:186} INFO - Started process (PID=1428055) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:28:03.856-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:28:03.857-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:03.856-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:28:03.861-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:28:03.879-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:03.879-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:28:03.888-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:03.888-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:28:03.900-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2025-05-24T01:29:02.992-0400] {processor.py:186} INFO - Started process (PID=1428600) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:29:02.994-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:29:02.996-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:02.995-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:29:03.015-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:29:03.059-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:03.059-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:29:03.077-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:03.077-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:29:03.090-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.112 seconds
+[2025-05-24T01:30:00.128-0400] {processor.py:186} INFO - Started process (PID=1429125) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:00.129-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:30:00.129-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:00.129-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:00.134-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:00.146-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:00.146-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:30:00.155-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:00.155-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:30:00.169-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2025-05-24T01:30:56.449-0400] {processor.py:186} INFO - Started process (PID=1429641) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:56.450-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:30:56.451-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:56.450-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:56.455-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:30:56.463-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:56.463-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:30:56.471-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:56.471-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:30:56.481-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.039 seconds
+[2025-05-24T01:31:56.171-0400] {processor.py:186} INFO - Started process (PID=1430195) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:31:56.172-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:31:56.174-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:56.173-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:31:56.181-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:31:56.200-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:56.200-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:31:56.210-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:56.210-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:31:56.222-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-24T01:32:58.291-0400] {processor.py:186} INFO - Started process (PID=1430762) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:32:58.292-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:32:58.293-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:58.292-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:32:58.298-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:32:58.305-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:58.305-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:32:58.314-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:58.314-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:32:58.325-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2025-05-24T01:33:56.336-0400] {processor.py:186} INFO - Started process (PID=1431300) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:33:56.337-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:33:56.342-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:56.339-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:33:56.351-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:33:56.364-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:56.364-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:33:56.377-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:56.377-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:33:56.390-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-05-24T01:35:02.025-0400] {processor.py:186} INFO - Started process (PID=1431909) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:35:02.026-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:35:02.028-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:02.027-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:35:02.043-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:35:02.060-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:02.060-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:35:02.073-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:02.073-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:35:02.091-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-05-24T01:36:00.521-0400] {processor.py:186} INFO - Started process (PID=1432447) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:36:00.524-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:36:00.525-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:00.525-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:36:00.532-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:36:00.542-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:00.542-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:36:00.554-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:00.554-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:36:00.567-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2025-05-24T01:37:03.652-0400] {processor.py:186} INFO - Started process (PID=1433026) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:37:03.654-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:37:03.655-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:03.654-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:37:03.659-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:37:03.667-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:03.667-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:37:03.675-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:03.674-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:37:03.685-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.041 seconds
+[2025-05-24T01:38:03.852-0400] {processor.py:186} INFO - Started process (PID=1433581) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:38:03.853-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:38:03.855-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:03.854-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:38:03.862-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:38:03.873-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:03.872-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:38:03.882-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:03.882-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:38:03.895-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T01:39:03.887-0400] {processor.py:186} INFO - Started process (PID=1434170) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:39:03.890-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:39:03.892-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:03.891-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:39:03.912-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:39:03.929-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:03.929-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:39:03.943-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:03.942-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:39:03.969-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds
+[2025-05-24T01:40:04.508-0400] {processor.py:186} INFO - Started process (PID=1434731) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:40:04.509-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:40:04.510-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:04.509-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:40:04.514-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:40:04.522-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:04.521-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:40:04.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:04.528-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:40:04.624-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.123 seconds
+[2025-05-24T01:41:09.460-0400] {processor.py:186} INFO - Started process (PID=1435327) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:41:09.462-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:41:09.463-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:09.462-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:41:09.470-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:41:09.479-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:09.479-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:41:09.490-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:09.490-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:41:09.623-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.176 seconds
+[2025-05-24T01:42:17.695-0400] {processor.py:186} INFO - Started process (PID=1435951) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:42:17.697-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:42:17.702-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:17.699-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:42:17.765-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:42:17.793-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:17.792-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:42:17.813-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:17.812-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:42:18.172-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.508 seconds
+[2025-05-24T01:43:27.225-0400] {processor.py:186} INFO - Started process (PID=1436590) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:43:27.226-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:43:27.227-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:27.227-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:43:27.235-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:43:27.252-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:27.251-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:43:27.263-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:27.263-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:43:27.362-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.151 seconds
+[2025-05-24T01:44:42.590-0400] {processor.py:186} INFO - Started process (PID=1437272) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:44:42.591-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:44:42.593-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:42.592-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:44:42.609-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:44:42.627-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:42.627-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:44:42.853-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:42.852-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:44:42.870-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.309 seconds
+[2025-05-24T01:45:59.287-0400] {processor.py:186} INFO - Started process (PID=1437967) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:45:59.288-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:45:59.289-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:59.289-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:45:59.294-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:45:59.304-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:59.304-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:45:59.386-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:59.386-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:45:59.395-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.117 seconds
+[2025-05-24T01:47:32.460-0400] {processor.py:186} INFO - Started process (PID=1438811) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:47:32.462-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:47:32.463-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:32.463-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:47:32.473-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:47:32.624-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:32.624-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:47:32.632-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:32.632-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:47:32.648-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.206 seconds
+[2025-05-24T01:48:49.346-0400] {processor.py:186} INFO - Started process (PID=1439520) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:48:49.348-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:48:49.350-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:49.350-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:48:49.364-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:48:49.384-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:49.384-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:48:49.398-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:49.398-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:48:49.415-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.099 seconds
+[2025-05-24T01:49:56.876-0400] {processor.py:186} INFO - Started process (PID=1440133) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:49:56.878-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:49:56.879-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:56.879-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:49:56.889-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:49:56.906-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:56.906-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:49:56.917-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:56.917-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:49:56.933-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2025-05-24T01:51:06.067-0400] {processor.py:186} INFO - Started process (PID=1440766) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:51:06.069-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:51:06.070-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:06.069-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:51:06.076-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:51:06.091-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:06.091-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:51:06.103-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:06.102-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:51:06.120-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-24T01:52:09.249-0400] {processor.py:186} INFO - Started process (PID=1441347) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:52:09.251-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:52:09.256-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:09.253-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:52:09.286-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:52:09.312-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:09.312-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:52:09.335-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:09.335-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:52:09.360-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.130 seconds
+[2025-05-24T01:53:15.210-0400] {processor.py:186} INFO - Started process (PID=1441962) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:53:15.212-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:53:15.213-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:15.212-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:53:15.221-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:53:15.235-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:15.234-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:53:15.247-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:15.246-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:53:15.266-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-05-24T01:54:51.504-0400] {processor.py:186} INFO - Started process (PID=1442825) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:54:51.505-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:54:51.506-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:51.506-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:54:51.512-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:54:51.522-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:51.522-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:54:51.531-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:51.530-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:54:51.544-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2025-05-24T01:56:02.926-0400] {processor.py:186} INFO - Started process (PID=1443482) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:56:02.931-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:56:02.937-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:02.935-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:56:02.965-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:56:03.030-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:03.030-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:56:03.052-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:03.052-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:56:03.078-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.178 seconds
+[2025-05-24T01:57:22.478-0400] {processor.py:186} INFO - Started process (PID=1444226) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:57:22.481-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:57:22.483-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:22.482-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:57:22.499-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:57:22.520-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:22.520-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:57:22.537-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:22.537-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:57:22.561-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.104 seconds
+[2025-05-24T01:58:36.643-0400] {processor.py:186} INFO - Started process (PID=1444903) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:58:36.644-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:58:36.646-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:36.645-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:58:36.654-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:58:36.668-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:36.668-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:58:36.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:36.679-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:58:36.693-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-05-24T01:59:42.191-0400] {processor.py:186} INFO - Started process (PID=1445502) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:59:42.206-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T01:59:42.218-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:42.214-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:59:42.245-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T01:59:42.282-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:42.281-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:59:42.305-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:42.305-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T01:59:42.327-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.222 seconds
+[2025-05-24T02:00:45.776-0400] {processor.py:186} INFO - Started process (PID=1446082) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:00:45.778-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:00:45.779-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:45.779-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:00:45.789-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:00:45.808-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:45.807-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:00:45.822-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:45.822-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:00:45.845-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-05-24T02:01:49.337-0400] {processor.py:186} INFO - Started process (PID=1446663) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:01:49.338-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:01:49.339-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:49.339-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:01:49.347-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:01:49.359-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:49.359-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:01:49.369-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:49.369-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:01:49.384-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-24T02:02:48.564-0400] {processor.py:186} INFO - Started process (PID=1447216) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:02:48.565-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:02:48.566-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:48.566-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:02:48.575-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:02:48.590-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:48.590-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:02:48.601-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:48.601-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:02:48.615-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-05-24T02:03:47.057-0400] {processor.py:186} INFO - Started process (PID=1447753) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:03:47.058-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:03:47.060-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:47.059-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:03:47.070-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:03:47.090-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:47.089-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:03:47.102-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:47.102-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:03:47.122-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-05-24T02:04:45.873-0400] {processor.py:186} INFO - Started process (PID=1448288) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:04:45.874-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:04:45.876-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:45.875-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:04:45.886-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:04:45.903-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:45.903-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:04:45.916-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:45.916-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:04:45.934-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2025-05-24T02:06:02.699-0400] {processor.py:186} INFO - Started process (PID=1449050) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:06:02.700-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:06:02.701-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:02.700-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:06:02.705-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:06:02.713-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:02.713-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:06:02.719-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:02.719-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:06:02.729-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.037 seconds
+[2025-05-24T02:07:01.533-0400] {processor.py:186} INFO - Started process (PID=1449594) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:07:01.536-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:07:01.538-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:01.537-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:07:01.561-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:07:01.592-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:01.592-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:07:01.626-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:01.626-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:07:01.671-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.184 seconds
+[2025-05-24T02:08:01.430-0400] {processor.py:186} INFO - Started process (PID=1450184) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:01.432-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:08:01.433-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:01.433-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:01.453-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:01.476-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:01.476-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:08:01.489-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:01.489-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:08:01.513-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.104 seconds
+[2025-05-24T02:08:56.280-0400] {processor.py:186} INFO - Started process (PID=1450694) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:56.281-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T02:08:56.282-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:56.282-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:56.290-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T02:08:56.302-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:56.302-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:08:56.311-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:56.311-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T02:08:56.323-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T03:03:00.343-0400] {processor.py:186} INFO - Started process (PID=1451513) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:03:00.345-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:03:00.346-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:00.345-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:03:00.361-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:03:00.374-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:00.374-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:03:00.388-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:00.388-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:03:00.402-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-05-24T03:04:04.407-0400] {processor.py:186} INFO - Started process (PID=1452103) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:04:04.412-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:04:04.414-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:04.413-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:04:04.444-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:04:04.476-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:04.476-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:04:04.495-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:04.495-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:04:04.515-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.123 seconds
+[2025-05-24T03:05:04.525-0400] {processor.py:186} INFO - Started process (PID=1452663) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:05:04.527-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:05:04.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:04.528-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:05:04.540-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:05:04.553-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:04.553-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:05:04.563-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:04.563-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:05:04.576-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2025-05-24T03:06:06.887-0400] {processor.py:186} INFO - Started process (PID=1453247) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:06:06.890-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:06:06.892-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:06.891-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:06:06.906-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:06:06.921-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:06.921-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:06:06.931-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:06.930-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:06:06.941-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2025-05-24T03:07:05.206-0400] {processor.py:186} INFO - Started process (PID=1453791) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:07:05.207-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:07:05.208-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:05.208-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:07:05.216-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:07:05.226-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:05.226-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:07:05.233-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:05.233-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:07:05.244-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T03:08:01.320-0400] {processor.py:186} INFO - Started process (PID=1454330) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:08:01.320-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:08:01.322-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:01.321-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:08:01.328-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:08:01.338-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:01.337-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:08:01.345-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:01.345-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:08:01.354-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2025-05-24T03:09:05.878-0400] {processor.py:186} INFO - Started process (PID=1454964) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:09:05.880-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:09:05.883-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:05.883-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:09:05.893-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:09:05.912-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:05.912-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:09:05.927-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:05.927-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:09:05.941-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2025-05-24T03:10:07.709-0400] {processor.py:186} INFO - Started process (PID=1455539) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:10:07.710-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:10:07.711-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:07.710-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:10:07.715-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:10:07.723-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:07.723-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:10:07.731-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:07.731-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:10:07.744-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2025-05-24T03:11:11.541-0400] {processor.py:186} INFO - Started process (PID=1456261) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:11:11.543-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:11:11.545-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:11.544-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:11:11.555-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:11:11.566-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:11.566-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:11:11.573-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:11.573-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:11:11.585-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-05-24T03:12:12.321-0400] {processor.py:186} INFO - Started process (PID=1456824) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:12:12.322-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:12:12.324-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:12.323-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:12:12.335-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:12:12.350-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:12.350-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:12:12.358-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:12.358-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:12:12.369-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-05-24T03:13:11.184-0400] {processor.py:186} INFO - Started process (PID=1457363) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:13:11.185-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:13:11.187-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:11.186-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:13:11.200-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:13:11.217-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:11.217-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:13:11.230-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:11.230-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:13:11.241-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2025-05-24T03:14:05.098-0400] {processor.py:186} INFO - Started process (PID=1457862) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:14:05.099-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:14:05.100-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:05.100-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:14:05.105-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:14:05.112-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:05.112-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:14:05.121-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:05.121-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:14:05.133-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2025-05-24T03:15:05.784-0400] {processor.py:186} INFO - Started process (PID=1458425) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:15:05.786-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:15:05.787-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:05.787-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:15:05.800-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:15:05.820-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:05.820-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:15:05.830-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:05.830-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:15:05.849-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds
+[2025-05-24T03:16:09.461-0400] {processor.py:186} INFO - Started process (PID=1459015) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:16:09.463-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:16:09.465-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:09.464-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:16:09.472-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:16:09.486-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:09.485-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:16:09.501-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:09.501-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:16:09.517-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-05-24T03:17:08.654-0400] {processor.py:186} INFO - Started process (PID=1459561) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:17:08.655-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:17:08.656-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:08.656-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:17:08.663-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:17:08.678-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:08.678-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:17:08.688-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:08.688-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:17:08.701-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2025-05-24T03:18:08.726-0400] {processor.py:186} INFO - Started process (PID=1460112) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:18:08.730-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:18:08.731-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:08.731-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:18:08.743-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:18:08.760-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:08.759-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:18:08.768-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:08.767-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:18:08.781-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-05-24T03:19:11.163-0400] {processor.py:186} INFO - Started process (PID=1460683) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:19:11.165-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:19:11.167-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:11.166-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:19:11.180-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:19:11.192-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:11.191-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:19:11.200-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:11.200-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:19:11.215-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.076 seconds
+[2025-05-24T03:20:09.044-0400] {processor.py:186} INFO - Started process (PID=1461219) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:20:09.045-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:20:09.047-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:09.046-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:20:09.057-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:20:09.073-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:09.073-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:20:09.084-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:09.084-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:20:09.097-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2025-05-24T03:21:09.526-0400] {processor.py:186} INFO - Started process (PID=1461772) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:21:09.528-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:21:09.530-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:09.529-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:21:09.541-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:21:09.567-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:09.567-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:21:09.575-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:09.575-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:21:09.590-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-05-24T03:22:08.332-0400] {processor.py:186} INFO - Started process (PID=1462316) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:22:08.334-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:22:08.335-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:08.334-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:22:08.345-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:22:08.363-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:08.363-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:22:08.372-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:08.372-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:22:08.386-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-05-24T03:23:05.145-0400] {processor.py:186} INFO - Started process (PID=1462842) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:23:05.146-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:23:05.147-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:05.147-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:23:05.154-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:23:05.164-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:05.164-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:23:05.172-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:05.172-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:23:05.183-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-05-24T03:24:10.986-0400] {processor.py:186} INFO - Started process (PID=1463439) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:24:10.988-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:24:10.990-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:10.989-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:24:11.001-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:24:11.014-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:11.014-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:24:11.021-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:11.021-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:24:11.032-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2025-05-24T03:25:11.265-0400] {processor.py:186} INFO - Started process (PID=1463997) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:25:11.266-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:25:11.266-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:11.266-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:25:11.270-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:25:11.277-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:11.277-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:25:11.283-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:11.283-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:25:11.291-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.032 seconds
+[2025-05-24T03:26:10.590-0400] {processor.py:186} INFO - Started process (PID=1464552) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:26:10.591-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:26:10.592-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:10.592-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:26:10.600-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:26:10.611-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:10.611-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:26:10.621-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:10.620-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:26:10.632-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T03:27:12.430-0400] {processor.py:186} INFO - Started process (PID=1465113) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:27:12.431-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:27:12.432-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:12.431-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:27:12.456-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:27:12.481-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:12.481-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:27:12.494-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:12.494-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:27:12.515-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.098 seconds
+[2025-05-24T03:28:11.872-0400] {processor.py:186} INFO - Started process (PID=1465655) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:28:11.873-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:28:11.874-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:11.874-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:28:11.882-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:28:11.894-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:11.894-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:28:11.901-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:11.901-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:28:11.913-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T03:29:12.941-0400] {processor.py:186} INFO - Started process (PID=1466219) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:29:12.942-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:29:12.944-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:12.943-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:29:12.953-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:29:12.965-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:12.965-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:29:12.977-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:12.977-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:29:12.991-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-05-24T03:30:11.862-0400] {processor.py:186} INFO - Started process (PID=1466763) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:30:11.863-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:30:11.865-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:11.864-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:30:11.871-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:30:11.881-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:11.881-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:30:11.893-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:11.893-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:30:11.907-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T03:31:06.711-0400] {processor.py:186} INFO - Started process (PID=1467271) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:31:06.711-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:31:06.712-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:06.712-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:31:06.717-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:31:06.727-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:06.727-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:31:06.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:06.736-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:31:06.748-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2025-05-24T03:32:02.433-0400] {processor.py:186} INFO - Started process (PID=1467781) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:02.434-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:32:02.435-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:02.435-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:02.442-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:02.458-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:02.458-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:32:02.468-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:02.468-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:32:02.480-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-05-24T03:32:58.580-0400] {processor.py:186} INFO - Started process (PID=1468298) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:58.581-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:32:58.582-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:58.582-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:58.619-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:32:58.636-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:58.636-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:32:58.652-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:58.652-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:32:58.665-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.102 seconds
+[2025-05-24T03:33:58.339-0400] {processor.py:186} INFO - Started process (PID=1468850) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:33:58.339-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:33:58.340-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:58.340-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:33:58.348-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:33:58.358-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:58.358-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:33:58.368-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:58.367-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:33:58.382-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2025-05-24T03:34:56.162-0400] {processor.py:186} INFO - Started process (PID=1469376) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:34:56.163-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:34:56.165-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:56.164-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:34:56.174-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:34:56.186-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:56.186-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:34:56.193-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:56.193-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:34:56.205-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2025-05-24T03:35:55.605-0400] {processor.py:186} INFO - Started process (PID=1469933) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:35:55.606-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:35:55.607-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:55.606-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:35:55.614-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:35:55.624-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:55.624-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:35:55.630-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:55.630-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:35:55.641-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2025-05-24T03:36:53.510-0400] {processor.py:186} INFO - Started process (PID=1470458) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:36:53.513-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:36:53.515-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:53.514-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:36:53.528-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:36:53.560-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:53.560-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:36:53.568-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:53.568-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:36:53.579-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2025-05-24T03:37:53.180-0400] {processor.py:186} INFO - Started process (PID=1471009) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:37:53.182-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:37:53.184-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:53.183-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:37:53.193-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:37:53.216-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:53.216-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:37:53.224-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:53.224-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:37:53.236-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-05-24T03:38:51.784-0400] {processor.py:186} INFO - Started process (PID=1471543) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:38:51.785-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:38:51.786-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:51.786-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:38:51.796-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:38:51.819-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:51.819-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:38:51.827-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:51.827-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:38:51.838-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-05-24T03:39:49.776-0400] {processor.py:186} INFO - Started process (PID=1472121) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:39:49.778-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:39:49.780-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:49.779-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:39:49.793-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:39:49.809-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:49.809-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:39:49.822-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:49.822-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:39:49.835-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-05-24T03:40:57.278-0400] {processor.py:186} INFO - Started process (PID=1472745) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:40:57.280-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:40:57.281-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:57.280-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:40:57.288-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:40:57.300-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:57.300-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:40:57.308-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:57.308-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:40:57.321-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T03:41:57.234-0400] {processor.py:186} INFO - Started process (PID=1473296) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:41:57.235-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:41:57.236-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:57.236-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:41:57.244-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:41:57.255-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:57.255-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:41:57.263-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:57.263-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:41:57.274-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T03:42:55.573-0400] {processor.py:186} INFO - Started process (PID=1473831) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:42:55.575-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:42:55.576-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:55.575-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:42:55.583-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:42:55.601-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:55.601-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:42:55.609-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:55.609-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:42:55.620-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2025-05-24T03:43:53.424-0400] {processor.py:186} INFO - Started process (PID=1474366) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:43:53.426-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:43:53.427-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:53.427-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:43:53.436-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:43:53.448-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:53.448-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:43:53.456-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:53.456-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:43:53.469-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2025-05-24T03:44:48.168-0400] {processor.py:186} INFO - Started process (PID=1474873) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:44:48.170-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:44:48.172-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:48.172-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:44:48.186-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:44:48.212-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:48.212-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:44:48.222-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:48.222-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:44:48.235-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2025-05-24T03:45:46.158-0400] {processor.py:186} INFO - Started process (PID=1475412) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:45:46.159-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:45:46.160-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:46.160-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:45:46.166-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:45:46.180-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:46.179-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:45:46.196-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:46.195-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:45:46.228-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-05-24T03:46:49.554-0400] {processor.py:186} INFO - Started process (PID=1476000) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:46:49.556-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:46:49.557-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:49.557-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:46:49.573-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:46:49.612-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:49.612-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:46:49.626-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:49.625-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:46:49.647-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2025-05-24T03:47:54.130-0400] {processor.py:186} INFO - Started process (PID=1476587) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:47:54.131-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:47:54.132-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:54.132-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:47:54.142-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:47:54.157-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:54.157-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:47:54.169-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:54.169-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:47:54.185-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-05-24T03:48:53.825-0400] {processor.py:186} INFO - Started process (PID=1477144) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:48:53.826-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:48:53.827-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:53.827-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:48:53.834-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:48:53.850-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:53.850-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:48:53.858-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:53.858-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:48:53.869-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T03:59:48.006-0400] {processor.py:186} INFO - Started process (PID=1477812) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:59:48.008-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T03:59:48.009-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:48.009-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:59:48.017-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T03:59:48.032-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:48.031-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:59:48.039-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:48.039-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T03:59:48.051-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2025-05-24T04:00:47.078-0400] {processor.py:186} INFO - Started process (PID=1478352) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:00:47.080-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:00:47.081-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:47.081-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:00:47.091-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:00:47.103-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:47.103-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:00:47.112-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:47.112-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:00:47.125-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-05-24T04:01:45.062-0400] {processor.py:186} INFO - Started process (PID=1478887) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:01:45.063-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:01:45.064-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:45.064-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:01:45.072-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:01:45.082-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:45.082-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:01:45.091-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:45.091-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:01:45.104-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2025-05-24T04:02:40.819-0400] {processor.py:186} INFO - Started process (PID=1479403) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:02:40.821-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:02:40.828-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:40.827-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:02:40.855-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:02:40.885-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:40.885-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:02:40.899-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:40.899-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:02:40.913-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.121 seconds
+[2025-05-24T04:03:48.313-0400] {processor.py:186} INFO - Started process (PID=1480018) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:03:48.314-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:03:48.315-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:48.315-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:03:48.323-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:03:48.334-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:48.334-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:03:48.342-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:48.342-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:03:48.353-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2025-05-24T04:04:46.141-0400] {processor.py:186} INFO - Started process (PID=1480553) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:04:46.142-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:04:46.143-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:46.142-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:04:46.150-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:04:46.178-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:46.178-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:04:46.189-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:46.189-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:04:46.204-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-05-24T04:05:43.675-0400] {processor.py:186} INFO - Started process (PID=1481087) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:05:43.676-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:05:43.677-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:43.677-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:05:43.686-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:05:43.699-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:43.699-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:05:43.706-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:43.706-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:05:43.718-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-05-24T04:06:38.761-0400] {processor.py:186} INFO - Started process (PID=1481596) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:06:38.762-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:06:38.763-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:38.763-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:06:38.771-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:06:38.783-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:38.783-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:06:38.793-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:38.793-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:06:38.804-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2025-05-24T04:07:56.547-0400] {processor.py:186} INFO - Started process (PID=1482442) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:07:56.548-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:07:56.549-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:56.548-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:07:56.556-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:07:56.567-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:56.567-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:07:56.574-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:07:56.574-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:07:56.585-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-05-24T04:09:04.017-0400] {processor.py:186} INFO - Started process (PID=1483168) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:09:04.023-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:09:04.027-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:04.026-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:09:04.056-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:09:04.091-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:04.091-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:09:04.108-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:04.108-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:09:04.164-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.180 seconds
+[2025-05-24T04:10:18.514-0400] {processor.py:186} INFO - Started process (PID=1483984) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:10:18.516-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:10:18.517-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:18.517-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:10:18.536-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:10:18.552-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:18.552-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:10:18.568-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:18.568-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:10:18.582-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-05-24T04:11:26.018-0400] {processor.py:186} INFO - Started process (PID=1484642) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:11:26.023-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:11:26.026-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:26.025-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:11:26.059-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:11:26.094-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:26.093-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:11:26.116-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:26.116-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:11:26.144-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.158 seconds
+[2025-05-24T04:12:27.097-0400] {processor.py:186} INFO - Started process (PID=1485241) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:12:27.098-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:12:27.099-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:27.099-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:12:27.113-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:12:27.127-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:27.126-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:12:27.136-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:27.136-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:12:27.146-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-05-24T04:13:35.766-0400] {processor.py:186} INFO - Started process (PID=1485901) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:13:35.768-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:13:35.769-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:35.769-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:13:35.786-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:13:35.804-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:35.804-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:13:35.816-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:35.815-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:13:35.830-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds
+[2025-05-24T04:14:49.966-0400] {processor.py:186} INFO - Started process (PID=1486657) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:14:49.967-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:14:49.968-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:49.968-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:14:49.973-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:14:49.984-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:49.984-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:14:49.995-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:49.994-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:14:50.008-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2025-05-24T04:16:15.146-0400] {processor.py:186} INFO - Started process (PID=1487439) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:16:15.148-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:16:15.149-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:15.149-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:16:15.162-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:16:15.178-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:15.177-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:16:15.193-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:15.193-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:16:15.210-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-05-24T04:18:34.257-0400] {processor.py:186} INFO - Started process (PID=1488539) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:18:34.258-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:18:34.259-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:34.259-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:18:34.269-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:18:34.281-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:34.280-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:18:34.288-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:18:34.287-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:18:34.298-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-05-24T04:20:13.895-0400] {processor.py:186} INFO - Started process (PID=1489463) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:20:13.917-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:20:13.938-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:13.931-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:20:14.003-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:20:14.023-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:14.023-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:20:14.114-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:14.114-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:20:14.193-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.386 seconds
+[2025-05-24T04:21:37.023-0400] {processor.py:186} INFO - Started process (PID=1490318) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:21:37.025-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:21:37.027-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:37.026-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:21:37.034-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:21:37.049-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:37.049-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:21:37.057-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:37.057-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:21:37.068-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2025-05-24T04:23:05.201-0400] {processor.py:186} INFO - Started process (PID=1491121) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:23:05.202-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:23:05.203-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:05.203-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:23:05.211-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:23:05.223-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:05.223-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:23:05.233-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:05.233-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:23:05.245-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-05-24T04:24:10.756-0400] {processor.py:186} INFO - Started process (PID=1491732) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:24:10.758-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-24T04:24:10.759-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:10.759-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:24:10.767-0400] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-24T04:24:10.786-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:10.785-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:24:10.797-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:10.797-0400] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-24T04:24:10.812-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds

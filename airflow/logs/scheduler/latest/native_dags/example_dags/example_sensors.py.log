@@ -1,0 +1,903 @@
+[2025-05-23T20:01:41.030-0400] {processor.py:186} INFO - Started process (PID=1414584) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:01:41.031-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:01:41.032-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:41.032-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:01:41.043-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:01:41.056-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:41.056-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:01:41.066-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:41.066-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:01:41.076-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.063 seconds
+[2025-05-23T20:02:36.499-0400] {processor.py:186} INFO - Started process (PID=1415095) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:02:36.500-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:02:36.501-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:36.501-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:02:36.511-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:02:36.523-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:36.522-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:02:36.528-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:36.528-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:02:36.539-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.048 seconds
+[2025-05-23T20:03:34.115-0400] {processor.py:186} INFO - Started process (PID=1415641) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:03:34.116-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:03:34.118-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:34.117-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:03:34.129-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:03:34.141-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:34.141-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:03:34.147-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:03:34.147-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:03:34.157-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2025-05-23T20:04:30.122-0400] {processor.py:186} INFO - Started process (PID=1416158) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:04:30.123-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:04:30.125-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:30.124-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:04:30.141-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:04:30.156-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:30.155-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:04:30.162-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:30.162-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:04:30.173-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-23T20:07:36.471-0400] {processor.py:186} INFO - Started process (PID=1416516) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:07:36.472-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:07:36.473-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:36.473-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:07:36.481-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:07:36.492-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:36.492-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:07:36.498-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:36.498-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:07:36.509-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.046 seconds
+[2025-05-23T20:12:12.327-0400] {processor.py:186} INFO - Started process (PID=1417210) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:12:12.328-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:12:12.329-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:12.329-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:12:12.339-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:12:12.354-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:12.354-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:12:12.361-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:12.361-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:12:12.370-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2025-05-23T20:13:14.177-0400] {processor.py:186} INFO - Started process (PID=1417783) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:13:14.178-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:13:14.180-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:14.179-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:13:14.191-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:13:14.206-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:14.206-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:13:14.213-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:14.212-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:13:14.223-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2025-05-23T20:14:12.871-0400] {processor.py:186} INFO - Started process (PID=1418319) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:14:12.873-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:14:12.874-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:12.873-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:14:12.886-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:14:12.902-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:12.902-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:14:12.909-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:12.909-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:14:12.922-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-23T20:15:15.844-0400] {processor.py:186} INFO - Started process (PID=1418901) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:15:15.846-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:15:15.847-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:15.847-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:15:15.860-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:15:15.875-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:15.875-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:15:15.881-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:15.881-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:15:15.891-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2025-05-23T20:16:12.498-0400] {processor.py:186} INFO - Started process (PID=1419430) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:16:12.499-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:16:12.500-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:12.500-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:16:12.511-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:16:12.526-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:12.526-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:16:12.534-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:12.534-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:16:12.544-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2025-05-23T20:17:09.171-0400] {processor.py:186} INFO - Started process (PID=1419954) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:17:09.172-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:17:09.173-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:09.173-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:17:09.185-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:17:09.201-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:09.201-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:17:09.209-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:09.209-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:17:09.220-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.063 seconds
+[2025-05-23T20:18:07.761-0400] {processor.py:186} INFO - Started process (PID=1420493) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:18:07.762-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:18:07.763-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:07.763-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:18:07.777-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:18:07.793-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:07.793-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:18:07.800-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:18:07.799-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:18:07.810-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-23T20:19:16.948-0400] {processor.py:186} INFO - Started process (PID=1421136) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:19:16.949-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-23T20:19:16.950-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:16.950-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:19:16.969-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-23T20:19:16.987-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:16.987-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:19:17.002-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:17.002-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-23T20:19:17.022-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.087 seconds
+[2025-05-24T00:46:11.799-0400] {processor.py:186} INFO - Started process (PID=1422157) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T00:46:11.801-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T00:46:11.803-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:11.803-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T00:46:11.831-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T00:46:11.865-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:11.865-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T00:46:11.893-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:46:11.893-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T00:46:11.910-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.130 seconds
+[2025-05-24T01:18:49.863-0400] {processor.py:186} INFO - Started process (PID=1422947) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:18:49.866-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:18:49.868-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:49.868-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:18:49.889-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:18:49.909-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:49.909-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:18:49.919-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:18:49.919-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:18:49.932-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.088 seconds
+[2025-05-24T01:19:59.319-0400] {processor.py:186} INFO - Started process (PID=1423586) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:19:59.323-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:19:59.324-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:59.324-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:19:59.361-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:19:59.393-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:59.393-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:19:59.437-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:59.437-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:19:59.477-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.175 seconds
+[2025-05-24T01:21:07.588-0400] {processor.py:186} INFO - Started process (PID=1424210) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:21:07.590-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:21:07.590-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:07.590-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:21:07.600-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:21:07.614-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:07.613-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:21:07.620-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:07.620-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:21:07.633-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2025-05-24T01:22:06.800-0400] {processor.py:186} INFO - Started process (PID=1424754) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:22:06.802-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:22:06.802-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:06.802-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:22:06.809-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:22:06.822-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:06.822-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:22:06.830-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:06.830-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:22:06.840-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.049 seconds
+[2025-05-24T01:23:04.220-0400] {processor.py:186} INFO - Started process (PID=1425293) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:23:04.222-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:23:04.224-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:04.223-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:23:04.244-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:23:04.271-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:04.270-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:23:04.288-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:04.288-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:23:04.304-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2025-05-24T01:24:04.017-0400] {processor.py:186} INFO - Started process (PID=1425845) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:24:04.020-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:24:04.022-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:04.022-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:24:04.052-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:24:04.076-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:04.076-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:24:04.094-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:04.094-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:24:04.126-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.135 seconds
+[2025-05-24T01:25:04.977-0400] {processor.py:186} INFO - Started process (PID=1426399) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:25:04.987-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:25:04.993-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:04.992-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:25:05.463-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:25:06.133-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:06.132-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:25:06.201-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:06.200-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:25:06.327-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 1.376 seconds
+[2025-05-24T01:26:05.889-0400] {processor.py:186} INFO - Started process (PID=1426966) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:26:05.891-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:26:05.892-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:05.891-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:26:05.905-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:26:05.939-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:05.939-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:26:05.951-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:05.951-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:26:05.965-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.095 seconds
+[2025-05-24T01:27:06.372-0400] {processor.py:186} INFO - Started process (PID=1427521) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:27:06.377-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:27:06.378-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:06.378-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:27:06.393-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:27:06.410-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:06.410-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:27:06.423-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:06.423-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:27:06.438-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.085 seconds
+[2025-05-24T01:28:10.666-0400] {processor.py:186} INFO - Started process (PID=1428119) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:28:10.668-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:28:10.671-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:10.669-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:28:10.692-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:28:10.724-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:10.723-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:28:10.740-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:10.740-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:28:10.765-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.114 seconds
+[2025-05-24T01:29:08.653-0400] {processor.py:186} INFO - Started process (PID=1428649) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:29:08.654-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:29:08.655-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:08.655-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:29:08.667-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:29:08.683-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:08.683-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:29:08.691-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:08.691-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:29:08.703-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2025-05-24T01:30:07.041-0400] {processor.py:186} INFO - Started process (PID=1429188) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:30:07.042-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:30:07.044-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:07.043-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:30:07.056-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:30:07.071-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:07.071-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:30:07.078-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:07.078-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:30:07.094-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T01:31:02.253-0400] {processor.py:186} INFO - Started process (PID=1429696) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:31:02.255-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:31:02.259-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:02.256-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:31:02.281-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:31:02.301-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:02.301-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:31:02.315-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:02.315-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:31:02.328-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.094 seconds
+[2025-05-24T01:32:02.741-0400] {processor.py:186} INFO - Started process (PID=1430250) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:32:02.743-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:32:02.745-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:02.745-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:32:02.765-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:32:02.800-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:02.800-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:32:02.817-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:02.817-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:32:02.836-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.112 seconds
+[2025-05-24T01:33:04.608-0400] {processor.py:186} INFO - Started process (PID=1430825) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:33:04.609-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:33:04.610-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:04.610-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:33:04.617-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:33:04.627-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:04.627-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:33:04.633-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:04.633-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:33:04.659-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2025-05-24T01:34:06.217-0400] {processor.py:186} INFO - Started process (PID=1431387) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:34:06.218-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:34:06.219-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:06.219-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:34:06.230-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:34:06.248-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:06.248-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:34:06.257-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:06.257-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:34:06.270-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.062 seconds
+[2025-05-24T01:35:08.841-0400] {processor.py:186} INFO - Started process (PID=1431963) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:35:08.842-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:35:08.843-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:08.843-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:35:08.850-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:35:08.862-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:08.862-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:35:08.869-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:08.869-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:35:08.880-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.046 seconds
+[2025-05-24T01:36:06.386-0400] {processor.py:186} INFO - Started process (PID=1432502) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:36:06.387-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:36:06.388-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:06.388-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:36:06.404-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:36:06.429-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:06.429-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:36:06.443-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:06.442-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:36:06.470-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-05-24T01:37:09.280-0400] {processor.py:186} INFO - Started process (PID=1433072) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:37:09.281-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:37:09.283-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:09.282-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:37:09.292-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:37:09.306-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:09.306-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:37:09.318-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:09.318-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:37:09.331-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds
+[2025-05-24T01:38:09.708-0400] {processor.py:186} INFO - Started process (PID=1433635) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:38:09.709-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:38:09.710-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:09.710-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:38:09.726-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:38:09.744-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:09.744-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:38:09.756-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:09.756-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:38:09.768-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.077 seconds
+[2025-05-24T01:39:10.787-0400] {processor.py:186} INFO - Started process (PID=1434233) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:39:10.789-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:39:10.790-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:10.790-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:39:10.802-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:39:10.819-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:10.819-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:39:10.826-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:10.826-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:39:10.838-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2025-05-24T01:40:12.024-0400] {processor.py:186} INFO - Started process (PID=1434794) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:40:12.025-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:40:12.026-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:12.026-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:40:12.036-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:40:12.059-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:12.058-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:40:12.067-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:12.067-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:40:12.081-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.069 seconds
+[2025-05-24T01:41:18.293-0400] {processor.py:186} INFO - Started process (PID=1435399) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:41:18.295-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:41:18.296-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:18.295-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:41:18.310-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:41:18.335-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:18.335-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:41:18.578-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:41:18.578-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:41:18.590-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.309 seconds
+[2025-05-24T01:42:24.336-0400] {processor.py:186} INFO - Started process (PID=1436009) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:42:24.337-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:42:24.338-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:24.338-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:42:24.345-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:42:24.357-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:24.357-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:42:24.429-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:24.429-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:42:24.438-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
+[2025-05-24T01:43:35.095-0400] {processor.py:186} INFO - Started process (PID=1436660) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:43:35.096-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:43:35.097-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:35.097-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:43:35.110-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:43:35.125-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:35.125-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:43:35.256-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:35.256-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:43:35.266-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.182 seconds
+[2025-05-24T01:44:50.242-0400] {processor.py:186} INFO - Started process (PID=1437343) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:44:50.246-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:44:50.250-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:50.249-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:44:50.267-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:44:50.431-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:50.431-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:44:50.437-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:50.437-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:44:50.448-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.218 seconds
+[2025-05-24T01:46:07.296-0400] {processor.py:186} INFO - Started process (PID=1438038) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:46:07.299-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:46:07.300-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:07.300-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:46:07.320-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:46:07.655-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:07.655-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:46:07.662-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:07.662-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:46:07.677-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.395 seconds
+[2025-05-24T01:47:42.061-0400] {processor.py:186} INFO - Started process (PID=1438900) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:47:42.063-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:47:42.065-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:42.064-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:47:42.476-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:47:42.499-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:42.499-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:47:42.511-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:47:42.511-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:47:42.529-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.486 seconds
+[2025-05-24T01:48:55.473-0400] {processor.py:186} INFO - Started process (PID=1439574) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:48:55.474-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:48:55.475-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:55.475-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:48:55.488-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:48:55.511-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:55.511-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:48:55.520-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:55.520-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:48:55.538-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.077 seconds
+[2025-05-24T01:50:04.982-0400] {processor.py:186} INFO - Started process (PID=1440206) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:50:04.986-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:50:04.991-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:04.989-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:50:05.014-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:50:05.068-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:05.068-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:50:05.084-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:05.084-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:50:05.102-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.138 seconds
+[2025-05-24T01:51:13.285-0400] {processor.py:186} INFO - Started process (PID=1440831) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:51:13.286-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:51:13.287-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:13.286-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:51:13.299-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:51:13.317-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:13.317-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:51:13.327-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:13.327-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:51:13.344-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.070 seconds
+[2025-05-24T01:52:17.197-0400] {processor.py:186} INFO - Started process (PID=1441424) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:52:17.200-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:52:17.202-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:17.201-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:52:17.227-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:52:17.256-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:17.256-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:52:17.273-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:52:17.273-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:52:17.299-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.126 seconds
+[2025-05-24T01:53:21.479-0400] {processor.py:186} INFO - Started process (PID=1442018) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:53:21.481-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:53:21.482-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:21.482-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:53:21.493-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:53:21.510-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:21.510-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:53:21.520-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:21.520-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:53:21.539-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.080 seconds
+[2025-05-24T01:54:58.953-0400] {processor.py:186} INFO - Started process (PID=1442895) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:54:58.954-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:54:58.956-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:58.955-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:54:58.968-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:54:58.985-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:58.985-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:54:58.996-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:58.996-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:54:59.011-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.070 seconds
+[2025-05-24T01:56:10.929-0400] {processor.py:186} INFO - Started process (PID=1443560) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:56:10.930-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:56:10.932-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:10.931-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:56:10.945-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:56:10.972-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:10.972-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:56:10.984-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:56:10.983-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:56:11.000-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.083 seconds
+[2025-05-24T01:57:30.413-0400] {processor.py:186} INFO - Started process (PID=1444296) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:57:30.415-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:57:30.417-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:30.416-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:57:30.437-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:57:30.473-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:30.473-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:57:30.493-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:30.493-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:57:30.515-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.119 seconds
+[2025-05-24T01:58:42.538-0400] {processor.py:186} INFO - Started process (PID=1444949) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:58:42.541-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:58:42.543-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:42.543-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:58:42.557-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:58:42.579-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:42.579-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:58:42.592-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:42.592-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:58:42.609-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.085 seconds
+[2025-05-24T01:59:49.656-0400] {processor.py:186} INFO - Started process (PID=1445565) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:59:49.659-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T01:59:49.662-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:49.661-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:59:49.684-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T01:59:49.713-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:49.713-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:59:49.725-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:49.725-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T01:59:49.743-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.116 seconds
+[2025-05-24T02:00:52.096-0400] {processor.py:186} INFO - Started process (PID=1446136) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:00:52.097-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:00:52.098-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:52.098-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:00:52.107-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:00:52.123-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:52.123-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:00:52.132-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:52.132-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:00:52.148-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.066 seconds
+[2025-05-24T02:01:55.359-0400] {processor.py:186} INFO - Started process (PID=1446717) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:01:55.360-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:01:55.361-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:55.361-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:01:55.375-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:01:55.392-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:55.391-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:01:55.400-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:55.400-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:01:55.415-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.076 seconds
+[2025-05-24T02:02:53.743-0400] {processor.py:186} INFO - Started process (PID=1447263) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:02:53.746-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:02:53.748-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:53.747-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:02:53.766-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:02:53.794-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:53.794-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:02:53.808-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:53.807-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:02:53.826-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-05-24T02:03:52.677-0400] {processor.py:186} INFO - Started process (PID=1447799) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:03:52.679-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:03:52.680-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:52.680-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:03:52.692-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:03:52.710-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:52.709-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:03:52.722-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:52.722-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:03:52.738-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.074 seconds
+[2025-05-24T02:04:53.192-0400] {processor.py:186} INFO - Started process (PID=1448358) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:04:53.196-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:04:53.198-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:53.197-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:04:53.217-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:04:53.238-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:53.238-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:04:53.251-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:53.251-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:04:53.267-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.093 seconds
+[2025-05-24T02:06:09.038-0400] {processor.py:186} INFO - Started process (PID=1449105) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:06:09.040-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:06:09.041-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:09.041-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:06:09.050-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:06:09.065-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:09.065-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:06:09.072-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:09.072-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:06:09.082-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-24T02:07:08.856-0400] {processor.py:186} INFO - Started process (PID=1449699) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:07:08.856-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:07:08.857-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:08.857-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:07:08.874-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:07:08.912-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:08.911-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:07:08.936-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:08.936-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:07:08.955-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.109 seconds
+[2025-05-24T02:08:07.352-0400] {processor.py:186} INFO - Started process (PID=1450240) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:08:07.353-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:08:07.354-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:07.354-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:08:07.366-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:08:07.383-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:07.383-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:08:07.391-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:07.391-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:08:07.404-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-24T02:09:01.504-0400] {processor.py:186} INFO - Started process (PID=1450783) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:09:01.506-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T02:09:01.508-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:01.507-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:09:01.533-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T02:09:01.561-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:01.560-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:09:01.580-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:09:01.580-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T02:09:01.605-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.119 seconds
+[2025-05-24T03:03:07.155-0400] {processor.py:186} INFO - Started process (PID=1451575) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:03:07.159-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:03:07.160-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:07.160-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:03:07.180-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:03:07.203-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:07.203-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:03:07.213-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:07.212-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:03:07.232-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.094 seconds
+[2025-05-24T03:04:10.470-0400] {processor.py:186} INFO - Started process (PID=1452161) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:04:10.472-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:04:10.473-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:10.473-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:04:10.486-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:04:10.502-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:10.502-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:04:10.508-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:10.508-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:04:10.520-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T03:05:10.887-0400] {processor.py:186} INFO - Started process (PID=1452729) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:05:10.888-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:05:10.889-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:10.889-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:05:10.897-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:05:10.909-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:10.909-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:05:10.916-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:10.916-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:05:10.926-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.048 seconds
+[2025-05-24T03:06:13.218-0400] {processor.py:186} INFO - Started process (PID=1453314) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:06:13.220-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:06:13.220-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:13.220-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:06:13.229-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:06:13.251-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:13.251-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:06:13.258-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:13.258-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:06:13.268-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds
+[2025-05-24T03:07:10.912-0400] {processor.py:186} INFO - Started process (PID=1453841) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:07:10.914-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:07:10.915-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:10.915-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:07:10.925-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:07:10.938-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:10.938-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:07:10.945-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:10.945-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:07:10.954-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2025-05-24T03:08:08.409-0400] {processor.py:186} INFO - Started process (PID=1454396) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:08:08.410-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:08:08.412-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:08.411-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:08:08.424-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:08:08.442-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:08.441-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:08:08.448-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:08.448-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:08:08.460-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2025-05-24T03:09:13.171-0400] {processor.py:186} INFO - Started process (PID=1455030) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:09:13.172-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:09:13.174-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:13.173-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:09:13.242-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:09:13.271-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:13.271-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:09:13.277-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:13.277-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:09:13.289-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.144 seconds
+[2025-05-24T03:10:14.233-0400] {processor.py:186} INFO - Started process (PID=1455618) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:10:14.234-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:10:14.235-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:14.234-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:10:14.246-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:10:14.264-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:14.264-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:10:14.271-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:14.271-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:10:14.286-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T03:11:17.492-0400] {processor.py:186} INFO - Started process (PID=1456315) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:11:17.494-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:11:17.495-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:17.494-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:11:17.506-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:11:17.526-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:17.526-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:11:17.532-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:17.532-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:11:17.542-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.067 seconds
+[2025-05-24T03:12:18.701-0400] {processor.py:186} INFO - Started process (PID=1456878) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:12:18.702-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:12:18.703-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:18.703-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:12:18.714-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:12:18.730-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:18.730-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:12:18.737-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:18.737-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:12:18.749-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2025-05-24T03:13:17.284-0400] {processor.py:186} INFO - Started process (PID=1457425) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:13:17.285-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:13:17.286-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:17.285-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:13:17.295-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:13:17.308-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:17.308-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:13:17.315-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:17.315-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:13:17.325-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2025-05-24T03:14:11.649-0400] {processor.py:186} INFO - Started process (PID=1457928) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:14:11.652-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:14:11.654-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:11.653-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:14:11.667-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:14:11.686-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:11.686-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:14:11.698-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:11.698-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:14:11.710-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.079 seconds
+[2025-05-24T03:15:11.651-0400] {processor.py:186} INFO - Started process (PID=1458483) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:15:11.652-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:15:11.653-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:11.653-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:15:11.661-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:15:11.676-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:11.676-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:15:11.684-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:11.684-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:15:11.695-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2025-05-24T03:16:16.015-0400] {processor.py:186} INFO - Started process (PID=1459077) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:16:16.016-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:16:16.017-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:16.017-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:16:16.028-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:16:16.049-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:16.049-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:16:16.061-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:16:16.061-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:16:16.074-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.072 seconds
+[2025-05-24T03:17:14.832-0400] {processor.py:186} INFO - Started process (PID=1459615) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:17:14.834-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:17:14.836-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:14.835-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:17:14.856-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:17:14.881-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:14.880-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:17:14.892-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:14.892-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:17:14.910-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-05-24T03:18:15.208-0400] {processor.py:186} INFO - Started process (PID=1460174) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:18:15.209-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:18:15.210-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:15.210-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:18:15.220-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:18:15.233-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:15.233-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:18:15.241-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:15.241-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:18:15.252-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2025-05-24T03:19:17.504-0400] {processor.py:186} INFO - Started process (PID=1460745) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:19:17.507-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:19:17.508-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:17.508-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:19:17.523-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:19:17.540-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:17.540-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:19:17.547-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:17.547-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:19:17.557-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.072 seconds
+[2025-05-24T03:20:15.150-0400] {processor.py:186} INFO - Started process (PID=1461273) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:20:15.151-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:20:15.152-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:15.152-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:20:15.163-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:20:15.175-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:15.174-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:20:15.180-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:20:15.180-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:20:15.190-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2025-05-24T03:21:15.329-0400] {processor.py:186} INFO - Started process (PID=1461827) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:21:15.330-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:21:15.331-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:15.330-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:21:15.347-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:21:15.365-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:15.365-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:21:15.374-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:15.374-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:21:15.387-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.069 seconds
+[2025-05-24T03:22:14.633-0400] {processor.py:186} INFO - Started process (PID=1462372) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:22:14.635-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:22:14.636-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:14.635-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:22:14.647-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:22:14.662-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:14.661-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:22:14.668-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:14.667-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:22:14.678-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2025-05-24T03:23:11.502-0400] {processor.py:186} INFO - Started process (PID=1462901) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:23:11.504-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:23:11.505-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:11.505-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:23:11.519-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:23:11.538-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:11.537-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:23:11.550-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:11.550-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:23:11.561-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.073 seconds
+[2025-05-24T03:24:16.732-0400] {processor.py:186} INFO - Started process (PID=1463493) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:24:16.733-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:24:16.735-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:16.734-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:24:16.746-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:24:16.764-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:16.764-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:24:16.772-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:16.772-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:24:16.783-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.063 seconds
+[2025-05-24T03:25:17.556-0400] {processor.py:186} INFO - Started process (PID=1464060) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:25:17.557-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:25:17.558-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:17.558-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:25:17.565-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:25:17.584-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:17.584-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:25:17.594-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:17.594-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:25:17.606-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2025-05-24T03:26:16.272-0400] {processor.py:186} INFO - Started process (PID=1464598) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:26:16.273-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:26:16.274-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:16.274-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:26:16.289-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:26:16.327-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:16.327-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:26:16.335-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:16.335-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:26:16.348-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.088 seconds
+[2025-05-24T03:27:18.871-0400] {processor.py:186} INFO - Started process (PID=1465167) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:27:18.872-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:27:18.874-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:18.873-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:27:18.890-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:27:18.908-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:18.908-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:27:18.915-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:18.915-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:27:18.925-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.068 seconds
+[2025-05-24T03:28:17.818-0400] {processor.py:186} INFO - Started process (PID=1465709) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:28:17.819-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:28:17.820-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:17.820-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:28:17.827-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:28:17.843-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:17.843-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:28:17.856-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:17.856-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:28:17.868-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.062 seconds
+[2025-05-24T03:29:19.445-0400] {processor.py:186} INFO - Started process (PID=1466281) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:29:19.446-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:29:19.448-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:19.447-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:29:19.461-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:29:19.478-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:19.478-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:29:19.488-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:19.488-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:29:19.505-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.073 seconds
+[2025-05-24T03:30:17.407-0400] {processor.py:186} INFO - Started process (PID=1466809) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:30:17.409-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:30:17.410-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:17.409-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:30:17.428-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:30:17.451-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:17.450-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:30:17.465-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:17.465-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:30:17.485-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.095 seconds
+[2025-05-24T03:31:11.890-0400] {processor.py:186} INFO - Started process (PID=1467321) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:31:11.892-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:31:11.894-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:11.893-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:31:11.907-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:31:11.921-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:11.920-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:31:11.927-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:31:11.926-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:31:11.936-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T03:32:07.912-0400] {processor.py:186} INFO - Started process (PID=1467837) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:32:07.913-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:32:07.914-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:07.914-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:32:07.930-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:32:07.945-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:07.945-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:32:07.952-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:07.952-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:32:07.964-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2025-05-24T03:33:05.753-0400] {processor.py:186} INFO - Started process (PID=1468361) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:33:05.755-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:33:05.757-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:05.756-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:33:05.777-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:33:05.801-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:05.801-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:33:05.810-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:05.810-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:33:05.822-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.083 seconds
+[2025-05-24T03:34:05.036-0400] {processor.py:186} INFO - Started process (PID=1468905) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:34:05.038-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:34:05.041-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:05.039-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:34:05.055-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:34:05.068-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:05.068-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:34:05.077-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:05.077-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:34:05.093-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.069 seconds
+[2025-05-24T03:35:03.172-0400] {processor.py:186} INFO - Started process (PID=1469444) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:35:03.173-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:35:03.174-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:03.174-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:35:03.188-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:35:03.202-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:03.202-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:35:03.209-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:03.209-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:35:03.219-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2025-05-24T03:36:01.542-0400] {processor.py:186} INFO - Started process (PID=1469990) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:01.544-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:36:01.545-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:01.544-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:01.555-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:01.569-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:01.569-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:36:01.579-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:01.579-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:36:01.592-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2025-05-24T03:36:59.813-0400] {processor.py:186} INFO - Started process (PID=1470522) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:59.815-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:36:59.816-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:59.816-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:59.825-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:36:59.846-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:59.846-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:36:59.856-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:59.856-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:36:59.872-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.068 seconds
+[2025-05-24T03:37:59.386-0400] {processor.py:186} INFO - Started process (PID=1471065) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:37:59.387-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:37:59.387-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:59.387-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:37:59.394-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:37:59.406-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:59.406-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:37:59.414-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:59.414-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:37:59.428-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.048 seconds
+[2025-05-24T03:38:57.708-0400] {processor.py:186} INFO - Started process (PID=1471597) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:38:57.710-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:38:57.711-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:57.711-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:38:57.741-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:38:57.757-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:57.757-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:38:57.768-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:57.768-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:38:57.782-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.087 seconds
+[2025-05-24T03:39:57.943-0400] {processor.py:186} INFO - Started process (PID=1472192) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:39:57.945-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:39:57.950-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:57.949-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:39:57.967-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:39:57.983-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:57.983-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:39:57.991-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:57.991-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:39:58.005-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.086 seconds
+[2025-05-24T03:41:02.756-0400] {processor.py:186} INFO - Started process (PID=1472801) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:41:02.758-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:41:02.760-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:02.759-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:41:02.779-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:41:02.809-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:02.809-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:41:02.815-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:02.815-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:41:02.824-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2025-05-24T03:42:02.728-0400] {processor.py:186} INFO - Started process (PID=1473353) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:42:02.729-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:42:02.731-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:02.730-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:42:02.742-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:42:02.753-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:02.753-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:42:02.758-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:02.758-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:42:02.768-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2025-05-24T03:43:02.565-0400] {processor.py:186} INFO - Started process (PID=1473895) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:43:02.566-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:43:02.567-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:02.567-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:43:02.580-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:43:02.596-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:02.596-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:43:02.603-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:02.603-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:43:02.617-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T03:44:00.031-0400] {processor.py:186} INFO - Started process (PID=1474430) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:00.033-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:44:00.034-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:00.033-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:00.046-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:00.067-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:00.067-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:44:00.080-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:00.080-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:44:00.093-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.078 seconds
+[2025-05-24T03:44:54.490-0400] {processor.py:186} INFO - Started process (PID=1474927) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:54.492-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:44:54.493-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:54.492-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:54.502-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:44:54.518-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:54.518-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:44:54.527-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:54.527-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:44:54.537-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2025-05-24T03:45:52.560-0400] {processor.py:186} INFO - Started process (PID=1475477) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:45:52.562-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:45:52.564-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:52.563-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:45:52.587-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:45:52.614-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:52.614-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:45:52.626-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:52.625-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:45:52.641-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.094 seconds
+[2025-05-24T03:46:57.423-0400] {processor.py:186} INFO - Started process (PID=1476062) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:46:57.425-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:46:57.426-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:57.426-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:46:57.437-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:46:57.451-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:57.451-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:46:57.463-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:57.463-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:46:57.476-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-24T03:48:00.657-0400] {processor.py:186} INFO - Started process (PID=1476650) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:48:00.659-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:48:00.662-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:00.661-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:48:00.677-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:48:00.693-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:00.693-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:48:00.705-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:00.704-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:48:00.720-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.079 seconds
+[2025-05-24T03:49:00.278-0400] {processor.py:186} INFO - Started process (PID=1477200) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:49:00.280-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:49:00.282-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:00.282-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:49:00.297-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:49:00.318-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:00.318-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:49:00.324-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:00.324-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:49:00.334-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.071 seconds
+[2025-05-24T03:59:54.475-0400] {processor.py:186} INFO - Started process (PID=1477871) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:59:54.477-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T03:59:54.479-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:54.478-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:59:54.496-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T03:59:54.510-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:54.510-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:59:54.516-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:59:54.516-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T03:59:54.526-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.067 seconds
+[2025-05-24T04:00:53.246-0400] {processor.py:186} INFO - Started process (PID=1478418) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:00:53.247-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:00:53.248-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:53.248-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:00:53.260-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:00:53.275-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:53.275-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:00:53.282-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:53.282-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:00:53.293-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2025-05-24T04:01:50.470-0400] {processor.py:186} INFO - Started process (PID=1478942) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:01:50.472-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:01:50.474-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:50.474-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:01:50.492-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:01:50.506-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:50.506-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:01:50.513-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:50.513-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:01:50.523-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.074 seconds
+[2025-05-24T04:02:47.698-0400] {processor.py:186} INFO - Started process (PID=1479465) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:02:47.700-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:02:47.702-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:47.701-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:02:47.721-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:02:47.742-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:47.741-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:02:47.748-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:47.748-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:02:47.762-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.077 seconds
+[2025-05-24T04:03:54.172-0400] {processor.py:186} INFO - Started process (PID=1480076) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:03:54.173-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:03:54.173-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:54.173-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:03:54.182-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:03:54.207-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:54.206-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:03:54.222-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:54.222-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:03:54.237-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.074 seconds
+[2025-05-24T04:04:52.456-0400] {processor.py:186} INFO - Started process (PID=1480610) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:04:52.457-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:04:52.458-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:52.458-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:04:52.471-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:04:52.487-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:52.486-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:04:52.495-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:52.495-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:04:52.507-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-24T04:05:50.435-0400] {processor.py:186} INFO - Started process (PID=1481151) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:05:50.437-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:05:50.438-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:50.438-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:05:50.449-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:05:50.466-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:50.466-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:05:50.479-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:50.479-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:05:50.490-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.067 seconds
+[2025-05-24T04:06:46.424-0400] {processor.py:186} INFO - Started process (PID=1481669) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:06:46.426-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:06:46.427-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:46.426-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:06:46.442-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:06:46.460-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:46.460-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:06:46.473-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:46.473-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:06:46.488-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.081 seconds
+[2025-05-24T04:08:02.976-0400] {processor.py:186} INFO - Started process (PID=1482527) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:08:02.978-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:08:02.979-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:02.978-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:08:02.989-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:08:03.009-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:03.009-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:08:03.019-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:03.019-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:08:03.031-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.066 seconds
+[2025-05-24T04:09:12.084-0400] {processor.py:186} INFO - Started process (PID=1483307) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:09:12.089-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:09:12.099-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:12.094-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:09:12.150-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:09:12.198-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:12.198-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:09:12.216-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:12.216-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:09:12.247-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.205 seconds
+[2025-05-24T04:10:24.965-0400] {processor.py:186} INFO - Started process (PID=1484047) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:10:24.966-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:10:24.967-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:24.967-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:10:24.977-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:10:24.992-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:24.992-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:10:24.999-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:24.999-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:10:25.010-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.068 seconds
+[2025-05-24T04:11:33.552-0400] {processor.py:186} INFO - Started process (PID=1484727) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:11:33.552-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:11:33.553-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:33.553-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:11:33.560-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:11:33.572-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:33.572-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:11:33.578-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:33.578-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:11:33.588-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.044 seconds
+[2025-05-24T04:12:34.888-0400] {processor.py:186} INFO - Started process (PID=1485312) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:12:34.890-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:12:34.892-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:34.891-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:12:34.916-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:12:34.963-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:34.962-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:12:34.980-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:34.980-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:12:35.001-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.155 seconds
+[2025-05-24T04:13:42.567-0400] {processor.py:186} INFO - Started process (PID=1485965) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:13:42.569-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:13:42.571-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:42.570-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:13:42.593-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:13:42.623-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:42.622-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:13:42.640-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:42.640-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:13:42.655-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.108 seconds
+[2025-05-24T04:14:57.824-0400] {processor.py:186} INFO - Started process (PID=1486731) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:14:57.827-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:14:57.829-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:57.828-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:14:57.853-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:14:57.882-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:57.882-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:14:57.897-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:14:57.896-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:14:57.920-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.123 seconds
+[2025-05-24T04:16:23.494-0400] {processor.py:186} INFO - Started process (PID=1487517) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:16:23.495-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:16:23.496-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:23.496-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:16:23.513-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:16:23.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:23.527-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:16:23.538-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:23.538-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:16:23.553-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.074 seconds
+[2025-05-24T04:19:26.065-0400] {processor.py:186} INFO - Started process (PID=1488971) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:19:26.067-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:19:26.069-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:26.068-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:19:26.085-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:19:26.105-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:26.105-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:19:26.115-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:26.115-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:19:26.343-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.295 seconds
+[2025-05-24T04:20:52.626-0400] {processor.py:186} INFO - Started process (PID=1489903) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:20:52.628-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:20:52.630-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:52.629-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:20:52.654-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:20:52.680-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:52.680-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:20:52.830-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:20:52.830-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:20:52.844-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.235 seconds
+[2025-05-24T04:22:22.011-0400] {processor.py:186} INFO - Started process (PID=1490731) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:22:22.016-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:22:22.021-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:22.020-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:22:22.062-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:22:22.089-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:22.089-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:22:22.309-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:22.309-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:22:22.322-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.334 seconds
+[2025-05-24T04:23:33.084-0400] {processor.py:186} INFO - Started process (PID=1491383) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:23:33.085-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:23:33.087-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:33.086-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:23:33.099-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:23:33.116-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:33.116-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:23:33.205-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:33.205-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:23:33.216-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.146 seconds
+[2025-05-24T04:24:46.377-0400] {processor.py:186} INFO - Started process (PID=1492098) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:24:46.378-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-24T04:24:46.379-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:46.379-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:24:46.392-0400] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-24T04:24:46.406-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:46.405-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:24:46.588-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:24:46.588-0400] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-24T04:24:46.603-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.238 seconds

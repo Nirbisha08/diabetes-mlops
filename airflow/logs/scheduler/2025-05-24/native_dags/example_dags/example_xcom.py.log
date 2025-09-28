@@ -1,0 +1,861 @@
+[2025-05-23T20:01:42.686-0400] {processor.py:186} INFO - Started process (PID=1414604) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:01:42.687-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:01:42.688-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:42.688-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:01:42.698-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:01:42.710-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:42.710-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:01:42.721-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:01:42.721-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:01:42.732-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2025-05-23T20:02:39.498-0400] {processor.py:186} INFO - Started process (PID=1415122) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:02:39.500-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:02:39.501-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:39.501-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:02:39.518-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:02:39.537-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:39.537-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:02:39.563-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:02:39.563-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:02:39.575-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
+[2025-05-23T20:04:05.748-0400] {processor.py:186} INFO - Started process (PID=1415931) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:04:05.750-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:04:05.751-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:05.751-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:04:05.760-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:04:05.773-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:05.773-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:04:05.783-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:04:05.783-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:04:05.793-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2025-05-23T20:07:57.189-0400] {processor.py:186} INFO - Started process (PID=1416701) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:07:57.191-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:07:57.192-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:57.192-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:07:57.208-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:07:57.221-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:57.221-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:07:57.236-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:07:57.236-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:07:57.248-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-05-23T20:12:31.117-0400] {processor.py:186} INFO - Started process (PID=1417382) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:12:31.118-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:12:31.119-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:31.119-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:12:31.127-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:12:31.138-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:31.138-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:12:31.149-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:12:31.149-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:12:31.160-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.053 seconds
+[2025-05-23T20:13:31.964-0400] {processor.py:186} INFO - Started process (PID=1417939) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:13:31.966-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:13:31.967-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:31.967-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:13:31.979-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:13:31.992-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:31.991-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:13:32.002-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:13:32.002-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:13:32.012-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-05-23T20:14:32.577-0400] {processor.py:186} INFO - Started process (PID=1418500) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:14:32.580-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:14:32.582-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:32.581-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:14:32.605-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:14:32.651-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:32.650-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:14:32.677-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:14:32.677-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:14:32.698-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.166 seconds
+[2025-05-23T20:15:35.325-0400] {processor.py:186} INFO - Started process (PID=1419075) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:15:35.327-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:15:35.329-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:35.328-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:15:35.341-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:15:35.358-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:35.358-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:15:35.369-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:15:35.369-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:15:35.380-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-05-23T20:16:30.214-0400] {processor.py:186} INFO - Started process (PID=1419588) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:16:30.216-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:16:30.217-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:30.217-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:16:30.228-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:16:30.245-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:30.245-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:16:30.263-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:16:30.263-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:16:30.273-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2025-05-23T20:17:55.007-0400] {processor.py:186} INFO - Started process (PID=1420379) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:17:55.009-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:17:55.010-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:55.009-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:17:55.018-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:17:55.031-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:55.031-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:17:55.041-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:17:55.040-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:17:55.050-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-23T20:19:02.820-0400] {processor.py:186} INFO - Started process (PID=1421003) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:19:02.825-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-23T20:19:02.828-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:02.828-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:19:02.841-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-23T20:19:02.853-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:02.853-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-23T20:19:02.863-0400] {logging_mixin.py:190} INFO - [2025-05-23T20:19:02.863-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-23T20:19:02.873-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.070 seconds
+[2025-05-24T00:13:28.567-0400] {processor.py:186} INFO - Started process (PID=1421741) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T00:13:28.568-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T00:13:28.569-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:28.569-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T00:13:28.579-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T00:13:28.598-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:28.598-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T00:13:28.614-0400] {logging_mixin.py:190} INFO - [2025-05-24T00:13:28.614-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T00:13:28.627-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.070 seconds
+[2025-05-24T01:19:08.895-0400] {processor.py:186} INFO - Started process (PID=1423117) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:19:08.901-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:19:08.904-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:08.903-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:19:08.922-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:19:08.948-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:08.948-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:19:08.989-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:19:08.988-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:19:09.024-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.147 seconds
+[2025-05-24T01:20:16.797-0400] {processor.py:186} INFO - Started process (PID=1423742) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:20:16.802-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:20:16.804-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:16.803-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:20:16.831-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:20:16.871-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:16.871-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:20:16.898-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:20:16.898-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:20:16.925-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.159 seconds
+[2025-05-24T01:21:23.271-0400] {processor.py:186} INFO - Started process (PID=1424352) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:21:23.276-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:21:23.277-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:23.277-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:21:23.294-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:21:23.348-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:23.348-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:21:23.401-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:21:23.400-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:21:23.440-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.217 seconds
+[2025-05-24T01:22:24.262-0400] {processor.py:186} INFO - Started process (PID=1424917) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:22:24.264-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:22:24.264-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:24.264-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:22:24.271-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:22:24.282-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:24.282-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:22:24.292-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:22:24.292-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:22:24.304-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.057 seconds
+[2025-05-24T01:23:21.336-0400] {processor.py:186} INFO - Started process (PID=1425449) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:23:21.337-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:23:21.339-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:21.338-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:23:21.346-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:23:21.358-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:21.357-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:23:21.374-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:23:21.374-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:23:21.385-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2025-05-24T01:24:21.286-0400] {processor.py:186} INFO - Started process (PID=1426001) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:24:21.287-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:24:21.288-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:21.287-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:24:21.296-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:24:21.306-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:21.306-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:24:21.321-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:24:21.321-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:24:21.334-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-24T01:25:21.317-0400] {processor.py:186} INFO - Started process (PID=1426555) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:25:21.318-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:25:21.319-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:21.319-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:25:21.328-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:25:21.349-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:21.349-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:25:21.363-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:25:21.363-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:25:21.373-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-05-24T01:26:22.264-0400] {processor.py:186} INFO - Started process (PID=1427124) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:26:22.265-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:26:22.267-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:22.266-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:26:22.280-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:26:22.292-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:22.292-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:26:22.306-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:26:22.306-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:26:22.326-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.080 seconds
+[2025-05-24T01:27:23.040-0400] {processor.py:186} INFO - Started process (PID=1427676) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:27:23.042-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:27:23.043-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:23.043-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:27:23.057-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:27:23.077-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:23.077-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:27:23.089-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:27:23.089-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:27:23.101-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-05-24T01:28:26.648-0400] {processor.py:186} INFO - Started process (PID=1428268) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:28:26.649-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:28:26.650-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:26.650-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:28:26.664-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:28:26.684-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:26.684-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:28:26.706-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:28:26.706-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:28:26.719-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds
+[2025-05-24T01:29:49.317-0400] {processor.py:186} INFO - Started process (PID=1429025) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:29:49.319-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:29:49.321-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:49.320-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:29:49.339-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:29:49.355-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:49.355-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:29:49.369-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:29:49.369-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:29:49.381-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.080 seconds
+[2025-05-24T01:30:47.846-0400] {processor.py:186} INFO - Started process (PID=1429560) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:30:47.846-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:30:47.847-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:47.847-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:30:47.855-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:30:47.867-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:47.867-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:30:47.878-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:30:47.878-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:30:47.889-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.053 seconds
+[2025-05-24T01:31:47.679-0400] {processor.py:186} INFO - Started process (PID=1430113) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:31:47.681-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:31:47.682-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:47.682-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:31:47.689-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:31:47.703-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:47.703-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:31:47.716-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:31:47.716-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:31:47.726-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-24T01:32:49.115-0400] {processor.py:186} INFO - Started process (PID=1430675) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:32:49.116-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:32:49.117-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:49.117-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:32:49.124-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:32:49.135-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:49.135-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:32:49.146-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:32:49.146-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:32:49.158-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.050 seconds
+[2025-05-24T01:33:47.521-0400] {processor.py:186} INFO - Started process (PID=1431219) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:33:47.525-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:33:47.528-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:47.528-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:33:47.541-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:33:47.557-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:47.557-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:33:47.570-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:33:47.570-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:33:47.580-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.084 seconds
+[2025-05-24T01:34:49.197-0400] {processor.py:186} INFO - Started process (PID=1431785) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:34:49.198-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:34:49.199-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:49.199-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:34:49.205-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:34:49.216-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:49.216-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:34:49.229-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:34:49.228-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:34:49.240-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.055 seconds
+[2025-05-24T01:35:47.724-0400] {processor.py:186} INFO - Started process (PID=1432327) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:35:47.726-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:35:47.728-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:47.727-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:35:47.745-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:35:47.767-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:47.766-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:35:47.784-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:35:47.784-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:35:47.798-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-05-24T01:36:47.140-0400] {processor.py:186} INFO - Started process (PID=1432870) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:36:47.150-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:36:47.155-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:47.153-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:36:47.197-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:36:47.242-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:47.242-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:36:47.268-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:36:47.268-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:36:47.291-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.343 seconds
+[2025-05-24T01:37:49.410-0400] {processor.py:186} INFO - Started process (PID=1433444) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:37:49.411-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:37:49.413-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:49.412-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:37:49.431-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:37:49.448-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:49.447-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:37:49.463-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:37:49.463-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:37:49.658-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.264 seconds
+[2025-05-24T01:38:49.052-0400] {processor.py:186} INFO - Started process (PID=1433996) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:38:49.053-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:38:49.054-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:49.053-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:38:49.063-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:38:49.082-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:49.081-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:38:49.097-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:38:49.097-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:38:49.303-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.262 seconds
+[2025-05-24T01:39:50.040-0400] {processor.py:186} INFO - Started process (PID=1434603) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:39:50.041-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:39:50.042-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:50.042-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:39:50.049-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:39:50.066-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:50.065-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:39:50.081-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:39:50.081-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:39:50.247-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.217 seconds
+[2025-05-24T01:40:52.761-0400] {processor.py:186} INFO - Started process (PID=1435171) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:40:52.762-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:40:52.763-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:52.763-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:40:52.773-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:40:52.786-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:52.786-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:40:52.798-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:40:52.798-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:40:53.009-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.262 seconds
+[2025-05-24T01:42:01.751-0400] {processor.py:186} INFO - Started process (PID=1435804) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:42:01.753-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:42:01.754-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:01.754-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:42:01.771-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:42:01.802-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:01.802-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:42:01.821-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:42:01.821-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:42:02.061-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.330 seconds
+[2025-05-24T01:43:11.032-0400] {processor.py:186} INFO - Started process (PID=1436439) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:43:11.033-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:43:11.034-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:11.034-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:43:11.041-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:43:11.049-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:11.049-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:43:11.066-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:43:11.066-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:43:11.210-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.187 seconds
+[2025-05-24T01:44:25.038-0400] {processor.py:186} INFO - Started process (PID=1437117) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:44:25.040-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:44:25.041-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:25.041-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:44:25.052-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:44:25.068-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:25.068-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:44:25.180-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:44:25.179-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:44:25.190-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.167 seconds
+[2025-05-24T01:45:39.103-0400] {processor.py:186} INFO - Started process (PID=1437787) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:45:39.104-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:45:39.105-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:39.104-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:45:39.110-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:45:39.118-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:39.118-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:45:39.199-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:45:39.199-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:45:39.209-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.113 seconds
+[2025-05-24T01:46:59.534-0400] {processor.py:186} INFO - Started process (PID=1438513) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:46:59.535-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:46:59.536-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:59.536-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:46:59.546-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:46:59.559-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:59.559-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:46:59.754-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:46:59.754-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:46:59.772-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.251 seconds
+[2025-05-24T01:48:31.113-0400] {processor.py:186} INFO - Started process (PID=1439354) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:48:31.114-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:48:31.115-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:31.115-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:48:31.129-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:48:31.150-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:31.149-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:48:31.175-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:48:31.175-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:48:31.196-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.097 seconds
+[2025-05-24T01:49:39.011-0400] {processor.py:186} INFO - Started process (PID=1439970) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:49:39.013-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:49:39.015-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:39.014-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:49:39.039-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:49:39.069-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:39.069-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:49:39.101-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:49:39.101-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:49:39.124-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2025-05-24T01:50:49.855-0400] {processor.py:186} INFO - Started process (PID=1440619) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:50:49.857-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:50:49.858-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:49.857-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:50:49.868-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:50:49.883-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:49.883-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:50:49.897-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:50:49.897-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:50:49.912-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-05-24T01:51:54.024-0400] {processor.py:186} INFO - Started process (PID=1441209) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:51:54.025-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:51:54.026-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:54.026-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:51:54.036-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:51:54.052-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:54.052-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:51:54.074-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:51:54.074-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:51:54.094-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.084 seconds
+[2025-05-24T01:53:00.128-0400] {processor.py:186} INFO - Started process (PID=1441823) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:53:00.129-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:53:00.131-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:00.130-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:53:00.143-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:53:00.161-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:00.161-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:53:00.187-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:53:00.187-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:53:00.206-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-05-24T01:54:02.577-0400] {processor.py:186} INFO - Started process (PID=1442383) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:54:02.592-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:54:02.610-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:02.607-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:54:02.746-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:54:04.110-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:04.062-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:54:04.649-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:54:04.646-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:54:05.514-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 3.321 seconds
+[2025-05-24T01:55:44.154-0400] {processor.py:186} INFO - Started process (PID=1443315) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:55:44.156-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:55:44.157-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:44.157-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:55:44.170-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:55:44.189-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:44.189-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:55:44.211-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:55:44.211-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:55:44.228-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds
+[2025-05-24T01:57:01.666-0400] {processor.py:186} INFO - Started process (PID=1444028) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:57:01.674-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:57:01.678-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:01.676-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:57:01.719-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:57:01.772-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:01.771-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:57:01.837-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:57:01.837-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:57:01.891-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.285 seconds
+[2025-05-24T01:58:21.155-0400] {processor.py:186} INFO - Started process (PID=1444754) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:58:21.156-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:58:21.158-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:21.157-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:58:21.169-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:58:21.185-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:21.185-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:58:21.202-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:58:21.201-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:58:21.217-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-05-24T01:59:26.184-0400] {processor.py:186} INFO - Started process (PID=1445356) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:59:26.186-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T01:59:26.187-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:26.187-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:59:26.201-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T01:59:26.221-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:26.220-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T01:59:26.241-0400] {logging_mixin.py:190} INFO - [2025-05-24T01:59:26.240-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T01:59:26.262-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.104 seconds
+[2025-05-24T02:00:31.701-0400] {processor.py:186} INFO - Started process (PID=1445952) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:00:31.702-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:00:31.703-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:31.703-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:00:31.713-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:00:31.728-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:31.728-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:00:31.743-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:00:31.743-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:00:31.758-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.077 seconds
+[2025-05-24T02:01:35.053-0400] {processor.py:186} INFO - Started process (PID=1446533) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:01:35.056-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:01:35.058-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:35.057-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:01:35.096-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:01:35.196-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:35.196-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:01:35.228-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:01:35.227-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:01:35.246-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2025-05-24T02:02:32.863-0400] {processor.py:186} INFO - Started process (PID=1447068) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:02:32.866-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:02:32.867-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:32.866-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:02:32.880-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:02:32.899-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:32.898-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:02:32.916-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:02:32.916-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:02:32.933-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2025-05-24T02:03:31.628-0400] {processor.py:186} INFO - Started process (PID=1447606) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:03:31.631-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:03:31.632-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:31.632-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:03:31.646-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:03:31.667-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:31.667-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:03:31.691-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:03:31.691-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:03:31.707-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.114 seconds
+[2025-05-24T02:04:30.940-0400] {processor.py:186} INFO - Started process (PID=1448149) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:04:30.942-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:04:30.944-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:30.944-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:04:30.955-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:04:30.969-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:30.969-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:04:30.985-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:04:30.984-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:04:30.999-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-05-24T02:05:44.558-0400] {processor.py:186} INFO - Started process (PID=1448884) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:05:44.559-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:05:44.561-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:44.560-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:05:44.570-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:05:44.583-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:44.583-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:05:44.596-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:05:44.595-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:05:44.606-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.060 seconds
+[2025-05-24T02:06:45.533-0400] {processor.py:186} INFO - Started process (PID=1449442) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:06:45.536-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:06:45.540-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:45.538-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:06:45.562-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:06:45.582-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:45.582-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:06:45.609-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:06:45.609-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:06:45.619-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.126 seconds
+[2025-05-24T02:07:48.200-0400] {processor.py:186} INFO - Started process (PID=1450066) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:07:48.201-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:07:48.201-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:48.201-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:07:48.207-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:07:48.214-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:48.214-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:07:48.223-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:07:48.223-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:07:48.232-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.039 seconds
+[2025-05-24T02:08:45.023-0400] {processor.py:186} INFO - Started process (PID=1450593) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:08:45.024-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T02:08:45.025-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:45.024-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:08:45.032-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T02:08:45.043-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:45.043-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T02:08:45.058-0400] {logging_mixin.py:190} INFO - [2025-05-24T02:08:45.058-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T02:08:45.069-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.057 seconds
+[2025-05-24T03:03:20.046-0400] {processor.py:186} INFO - Started process (PID=1451696) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:03:20.047-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:03:20.048-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:20.048-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:03:20.056-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:03:20.065-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:20.065-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:03:20.074-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:03:20.074-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:03:20.084-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2025-05-24T03:04:23.143-0400] {processor.py:186} INFO - Started process (PID=1452277) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:04:23.147-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:04:23.149-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:23.148-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:04:23.160-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:04:23.173-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:23.172-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:04:23.184-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:04:23.184-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:04:23.195-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.070 seconds
+[2025-05-24T03:05:22.893-0400] {processor.py:186} INFO - Started process (PID=1452835) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:05:22.894-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:05:22.895-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:22.895-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:05:22.905-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:05:22.919-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:22.919-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:05:22.932-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:05:22.932-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:05:22.945-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-05-24T03:06:24.718-0400] {processor.py:186} INFO - Started process (PID=1453414) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:06:24.720-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:06:24.721-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:24.721-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:06:24.734-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:06:24.748-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:24.748-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:06:24.761-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:06:24.760-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:06:24.774-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-05-24T03:07:22.411-0400] {processor.py:186} INFO - Started process (PID=1453949) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:07:22.411-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:07:22.412-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:22.412-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:07:22.418-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:07:22.426-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:22.426-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:07:22.434-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:07:22.434-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:07:22.444-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2025-05-24T03:08:22.176-0400] {processor.py:186} INFO - Started process (PID=1454513) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:08:22.177-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:08:22.179-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:22.178-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:08:22.193-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:08:22.207-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:22.207-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:08:22.223-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:08:22.223-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:08:22.236-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-05-24T03:09:26.531-0400] {processor.py:186} INFO - Started process (PID=1455147) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:09:26.533-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:09:26.535-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:26.535-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:09:26.565-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:09:26.609-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:26.609-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:09:26.636-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:09:26.636-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:09:26.662-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.149 seconds
+[2025-05-24T03:10:28.668-0400] {processor.py:186} INFO - Started process (PID=1455863) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:10:28.670-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:10:28.673-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:28.672-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:10:28.687-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:10:28.700-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:28.700-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:10:28.719-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:10:28.719-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:10:28.739-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds
+[2025-05-24T03:11:30.943-0400] {processor.py:186} INFO - Started process (PID=1456440) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:11:30.944-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:11:30.945-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:30.945-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:11:30.953-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:11:30.965-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:30.965-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:11:30.977-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:11:30.977-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:11:30.988-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-24T03:12:30.658-0400] {processor.py:186} INFO - Started process (PID=1456987) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:12:30.661-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:12:30.662-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:30.661-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:12:30.671-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:12:30.684-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:30.684-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:12:30.695-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:12:30.695-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:12:30.706-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.059 seconds
+[2025-05-24T03:13:29.137-0400] {processor.py:186} INFO - Started process (PID=1457526) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:13:29.138-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:13:29.139-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:29.139-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:13:29.149-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:13:29.161-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:29.161-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:13:29.173-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:13:29.173-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:13:29.184-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2025-05-24T03:14:51.880-0400] {processor.py:186} INFO - Started process (PID=1458288) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:14:51.882-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:14:51.884-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:51.883-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:14:51.903-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:14:51.932-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:51.932-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:14:51.958-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:14:51.957-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:14:51.988-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.124 seconds
+[2025-05-24T03:15:57.505-0400] {processor.py:186} INFO - Started process (PID=1458900) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:15:57.506-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:15:57.508-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:57.507-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:15:57.528-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:15:57.550-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:57.550-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:15:57.564-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:15:57.564-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:15:57.576-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.084 seconds
+[2025-05-24T03:17:00.368-0400] {processor.py:186} INFO - Started process (PID=1459482) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:17:00.370-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:17:00.372-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:00.371-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:17:00.387-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:17:00.403-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:00.403-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:17:00.422-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:17:00.421-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:17:00.438-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds
+[2025-05-24T03:18:00.753-0400] {processor.py:186} INFO - Started process (PID=1460036) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:18:00.758-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:18:00.759-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:00.758-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:18:00.768-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:18:00.782-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:00.782-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:18:00.794-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:18:00.794-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:18:00.806-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-05-24T03:19:00.845-0400] {processor.py:186} INFO - Started process (PID=1460586) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:00.846-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:19:00.848-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:00.847-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:00.863-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:00.884-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:00.884-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:19:00.906-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:00.906-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:19:00.920-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-05-24T03:19:58.677-0400] {processor.py:186} INFO - Started process (PID=1461122) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:58.679-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:19:58.680-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:58.680-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:58.689-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:19:58.698-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:58.698-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:19:58.707-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:19:58.707-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:19:58.718-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-24T03:21:26.364-0400] {processor.py:186} INFO - Started process (PID=1461926) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:21:26.367-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:21:26.368-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:26.368-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:21:26.388-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:21:26.412-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:26.412-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:21:26.422-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:21:26.422-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:21:26.433-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.081 seconds
+[2025-05-24T03:22:24.956-0400] {processor.py:186} INFO - Started process (PID=1462471) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:22:24.958-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:22:24.959-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:24.959-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:22:24.971-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:22:24.987-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:24.987-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:22:25.002-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:22:25.002-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:22:25.014-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-05-24T03:23:23.202-0400] {processor.py:186} INFO - Started process (PID=1463008) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:23:23.205-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:23:23.206-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:23.206-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:23:23.223-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:23:23.268-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:23.267-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:23:23.289-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:23:23.288-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:23:23.304-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.114 seconds
+[2025-05-24T03:24:28.218-0400] {processor.py:186} INFO - Started process (PID=1463592) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:24:28.220-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:24:28.222-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:28.221-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:24:28.236-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:24:28.250-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:28.250-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:24:28.264-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:24:28.264-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:24:28.278-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-05-24T03:25:28.991-0400] {processor.py:186} INFO - Started process (PID=1464161) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:25:28.993-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:25:28.994-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:28.994-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:25:29.005-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:25:29.020-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:29.020-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:25:29.031-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:25:29.031-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:25:29.041-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-05-24T03:26:55.643-0400] {processor.py:186} INFO - Started process (PID=1464951) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:26:55.644-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:26:55.646-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:55.645-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:26:55.656-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:26:55.667-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:55.667-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:26:55.679-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:26:55.679-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:26:55.691-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.061 seconds
+[2025-05-24T03:27:56.289-0400] {processor.py:186} INFO - Started process (PID=1465513) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:27:56.291-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:27:56.292-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:56.292-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:27:56.304-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:27:56.319-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:56.319-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:27:56.331-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:27:56.331-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:27:56.342-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-05-24T03:28:54.921-0400] {processor.py:186} INFO - Started process (PID=1466047) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:28:54.922-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:28:54.923-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:54.922-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:28:54.930-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:28:54.941-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:54.941-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:28:54.953-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:28:54.953-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:28:54.965-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.057 seconds
+[2025-05-24T03:29:56.935-0400] {processor.py:186} INFO - Started process (PID=1466620) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:29:56.936-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:29:56.937-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:56.937-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:29:56.945-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:29:56.954-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:56.954-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:29:56.963-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:29:56.963-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:29:56.972-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.052 seconds
+[2025-05-24T03:30:53.281-0400] {processor.py:186} INFO - Started process (PID=1467143) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:30:53.284-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:30:53.286-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:53.285-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:30:53.310-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:30:53.334-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:53.334-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:30:53.351-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:30:53.351-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:30:53.363-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-05-24T03:32:16.365-0400] {processor.py:186} INFO - Started process (PID=1467911) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:32:16.367-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:32:16.369-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:16.368-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:32:16.398-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:32:16.412-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:16.412-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:32:16.430-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:32:16.430-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:32:16.442-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-05-24T03:33:14.918-0400] {processor.py:186} INFO - Started process (PID=1468447) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:33:14.919-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:33:14.921-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:14.921-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:33:14.932-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:33:14.947-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:14.947-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:33:14.958-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:33:14.958-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:33:14.969-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-05-24T03:34:12.811-0400] {processor.py:186} INFO - Started process (PID=1468982) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:34:12.812-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:34:12.814-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:12.813-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:34:12.824-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:34:12.837-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:12.837-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:34:12.847-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:34:12.847-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:34:12.857-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.061 seconds
+[2025-05-24T03:35:11.911-0400] {processor.py:186} INFO - Started process (PID=1469530) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:35:11.913-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:35:11.915-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:11.914-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:35:11.925-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:35:11.943-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:11.942-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:35:11.955-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:35:11.955-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:35:11.965-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-05-24T03:36:10.769-0400] {processor.py:186} INFO - Started process (PID=1470075) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:36:10.771-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:36:10.772-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:10.772-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:36:10.798-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:36:10.811-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:10.811-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:36:10.822-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:36:10.822-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:36:10.835-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-05-24T03:37:09.995-0400] {processor.py:186} INFO - Started process (PID=1470616) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:37:09.996-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:37:09.998-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:09.997-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:37:10.008-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:37:10.019-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:10.019-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:37:10.030-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:37:10.029-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:37:10.039-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.056 seconds
+[2025-05-24T03:38:09.157-0400] {processor.py:186} INFO - Started process (PID=1471159) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:38:09.158-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:38:09.159-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:09.159-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:38:09.165-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:38:09.174-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:09.174-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:38:09.184-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:38:09.184-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:38:09.193-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.047 seconds
+[2025-05-24T03:39:07.162-0400] {processor.py:186} INFO - Started process (PID=1471735) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:39:07.163-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:39:07.164-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:07.163-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:39:07.172-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:39:07.186-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:07.186-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:39:07.200-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:39:07.200-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:39:07.213-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-05-24T03:40:09.299-0400] {processor.py:186} INFO - Started process (PID=1472298) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:40:09.301-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:40:09.303-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:09.302-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:40:09.314-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:40:09.326-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:09.326-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:40:09.337-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:40:09.337-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:40:09.349-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-05-24T03:41:13.778-0400] {processor.py:186} INFO - Started process (PID=1472905) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:41:13.780-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:41:13.781-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:13.781-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:41:13.790-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:41:13.804-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:13.804-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:41:13.815-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:41:13.815-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:41:13.825-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.061 seconds
+[2025-05-24T03:42:14.236-0400] {processor.py:186} INFO - Started process (PID=1473457) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:42:14.237-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:42:14.238-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:14.237-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:42:14.244-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:42:14.257-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:14.256-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:42:14.270-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:42:14.270-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:42:14.283-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.054 seconds
+[2025-05-24T03:43:13.245-0400] {processor.py:186} INFO - Started process (PID=1473999) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:43:13.247-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:43:13.248-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:13.248-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:43:13.259-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:43:13.285-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:13.285-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:43:13.299-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:43:13.299-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:43:13.314-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2025-05-24T03:44:10.264-0400] {processor.py:186} INFO - Started process (PID=1474525) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:44:10.266-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:44:10.267-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:10.267-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:44:10.281-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:44:10.295-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:10.295-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:44:10.315-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:44:10.315-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:44:10.325-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-05-24T03:45:08.296-0400] {processor.py:186} INFO - Started process (PID=1475066) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:45:08.298-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:45:08.298-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:08.298-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:45:08.305-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:45:08.314-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:08.314-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:45:08.325-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:45:08.325-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:45:08.335-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.051 seconds
+[2025-05-24T03:46:06.707-0400] {processor.py:186} INFO - Started process (PID=1475607) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:46:06.709-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:46:06.711-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:06.711-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:46:06.723-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:46:06.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:06.736-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:46:06.749-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:46:06.749-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:46:06.759-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2025-05-24T03:47:12.766-0400] {processor.py:186} INFO - Started process (PID=1476212) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:47:12.768-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:47:12.769-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:12.769-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:47:12.779-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:47:12.794-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:12.794-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:47:12.813-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:47:12.813-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:47:12.824-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.070 seconds
+[2025-05-24T03:48:15.648-0400] {processor.py:186} INFO - Started process (PID=1476790) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:48:15.650-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:48:15.652-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:15.651-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:48:15.668-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:48:15.683-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:15.683-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:48:15.699-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:48:15.699-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:48:15.716-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.089 seconds
+[2025-05-24T03:49:15.680-0400] {processor.py:186} INFO - Started process (PID=1477340) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:49:15.681-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T03:49:15.682-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:15.682-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:49:15.688-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T03:49:15.697-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:15.697-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T03:49:15.708-0400] {logging_mixin.py:190} INFO - [2025-05-24T03:49:15.708-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T03:49:15.720-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.049 seconds
+[2025-05-24T04:00:08.642-0400] {processor.py:186} INFO - Started process (PID=1478000) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:00:08.643-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:00:08.644-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:08.644-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:00:08.656-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:00:08.675-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:08.674-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:00:08.685-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:00:08.684-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:00:08.699-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-05-24T04:01:32.557-0400] {processor.py:186} INFO - Started process (PID=1478776) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:01:32.559-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:01:32.561-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:32.560-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:01:32.586-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:01:32.600-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:32.600-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:01:32.613-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:01:32.613-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:01:32.627-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.089 seconds
+[2025-05-24T04:02:29.375-0400] {processor.py:186} INFO - Started process (PID=1479298) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:02:29.377-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:02:29.379-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:29.378-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:02:29.392-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:02:29.404-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:29.404-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:02:29.419-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:02:29.419-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:02:29.431-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-05-24T04:03:32.861-0400] {processor.py:186} INFO - Started process (PID=1479880) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:03:32.862-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:03:32.863-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:32.863-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:03:32.885-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:03:32.899-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:32.899-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:03:32.911-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:03:32.911-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:03:32.922-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-05-24T04:04:34.409-0400] {processor.py:186} INFO - Started process (PID=1480443) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:04:34.411-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:04:34.413-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:34.412-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:04:34.427-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:04:34.441-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:34.441-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:04:34.459-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:04:34.459-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:04:34.470-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.089 seconds
+[2025-05-24T04:05:33.029-0400] {processor.py:186} INFO - Started process (PID=1480994) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:05:33.033-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:05:33.035-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:33.034-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:05:33.048-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:05:33.074-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:33.074-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:05:33.087-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:05:33.087-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:05:33.110-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-05-24T04:06:59.226-0400] {processor.py:186} INFO - Started process (PID=1481791) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:06:59.227-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:06:59.229-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:59.228-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:06:59.250-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:06:59.269-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:59.269-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:06:59.295-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:06:59.295-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:06:59.313-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.104 seconds
+[2025-05-24T04:08:14.695-0400] {processor.py:186} INFO - Started process (PID=1482664) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:08:14.699-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:08:14.701-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:14.700-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:08:14.737-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:08:14.771-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:14.771-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:08:14.807-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:08:14.807-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:08:14.832-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.164 seconds
+[2025-05-24T04:09:26.884-0400] {processor.py:186} INFO - Started process (PID=1483497) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:09:26.886-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:09:26.887-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:26.886-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:09:26.895-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:09:26.912-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:26.912-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:09:26.925-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:09:26.925-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:09:26.936-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-05-24T04:10:38.714-0400] {processor.py:186} INFO - Started process (PID=1484195) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:10:38.715-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:10:38.716-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:38.716-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:10:38.734-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:10:38.748-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:38.748-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:10:38.760-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:10:38.760-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:10:38.769-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-05-24T04:11:45.756-0400] {processor.py:186} INFO - Started process (PID=1484858) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:11:45.759-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:11:45.761-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:45.761-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:11:45.774-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:11:45.790-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:45.790-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:11:45.803-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:11:45.803-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:11:45.814-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-05-24T04:12:48.673-0400] {processor.py:186} INFO - Started process (PID=1485468) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:12:48.678-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:12:48.680-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:48.679-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:12:48.693-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:12:48.711-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:48.710-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:12:48.721-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:12:48.721-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:12:48.735-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-05-24T04:13:56.079-0400] {processor.py:186} INFO - Started process (PID=1486126) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:13:56.081-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:13:56.082-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:56.082-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:13:56.093-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:13:56.105-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:56.105-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:13:56.115-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:13:56.115-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:13:56.125-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-05-24T04:15:13.849-0400] {processor.py:186} INFO - Started process (PID=1486879) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:15:13.855-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:15:13.856-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:13.856-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:15:13.878-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:15:13.898-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:13.898-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:15:13.965-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:15:13.964-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:15:14.398-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.578 seconds
+[2025-05-24T04:16:45.921-0400] {processor.py:186} INFO - Started process (PID=1487711) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:16:45.924-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:16:45.929-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:45.927-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:16:45.959-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:16:45.999-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:45.999-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:16:46.033-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:16:46.033-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:16:46.463-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.591 seconds
+[2025-05-24T04:19:43.913-0400] {processor.py:186} INFO - Started process (PID=1489141) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:19:43.914-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:19:43.915-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:43.915-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:19:43.931-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:19:43.947-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:43.947-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:19:44.059-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:19:44.059-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:19:44.070-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.170 seconds
+[2025-05-24T04:21:07.081-0400] {processor.py:186} INFO - Started process (PID=1490050) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:21:07.082-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:21:07.083-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:07.083-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:21:07.101-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:21:07.120-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:07.120-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:21:07.356-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:21:07.356-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:21:07.368-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.306 seconds
+[2025-05-24T04:22:36.450-0400] {processor.py:186} INFO - Started process (PID=1490864) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:22:36.451-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:22:36.454-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:36.454-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:22:36.465-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:22:36.483-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:36.483-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:22:36.759-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:22:36.759-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:22:36.774-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.336 seconds
+[2025-05-24T04:23:48.009-0400] {processor.py:186} INFO - Started process (PID=1491517) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:23:48.011-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:23:48.012-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:48.012-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:23:48.028-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:23:48.043-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:48.043-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:23:48.225-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:23:48.224-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:23:48.239-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.249 seconds
+[2025-05-24T04:25:01.735-0400] {processor.py:186} INFO - Started process (PID=1492249) to work on /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:25:01.736-0400] {processor.py:914} INFO - Processing file /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-24T04:25:01.736-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:25:01.736-0400] {dagbag.py:588} INFO - Filling up the DagBag from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:25:01.742-0400] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-24T04:25:01.752-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:25:01.752-0400] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-24T04:25:01.855-0400] {logging_mixin.py:190} INFO - [2025-05-24T04:25:01.855-0400] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-05-24T04:25:01.865-0400] {processor.py:208} INFO - Processing /home/nirbisha/miniforge3/envs/heart_data/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.138 seconds
